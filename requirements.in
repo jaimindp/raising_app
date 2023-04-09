@@ -1,0 +1,12 @@
+streamlit
+streamlit.components.v1
+pandas
+datetime
+json
+matplotlib
+numpy
+tqdm
+collections
+wordcloud
+plotly
+

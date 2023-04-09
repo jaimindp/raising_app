@@ -1,0 +1,9 @@
+streamlit
+pandas
+datetime
+json
+matplotlib
+numpy
+collections
+wordcloud
+plotly
