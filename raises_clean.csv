@@ -1,6 +1,6 @@
 Company,Date,Amount Raised,Round,Investor,Description,Lead
 Huddle01,2023-04-07,2800000.0,Seed,Hivemind Capital Partners,Decentralized infrastructure & network that powers cross-chain audio & video communication between users,True
-Huddle01,2023-04-07,2800000.0,Seed,Superscrypt ,Decentralized infrastructure & network that powers cross-chain audio & video communication between users,False
+Huddle01,2023-04-07,2800000.0,Seed,Superscrypt,Decentralized infrastructure & network that powers cross-chain audio & video communication between users,False
 Huddle01,2023-04-07,2800000.0,Seed,M31 Capital,Decentralized infrastructure & network that powers cross-chain audio & video communication between users,False
 Huddle01,2023-04-07,2800000.0,Seed,Protocol Labs,Decentralized infrastructure & network that powers cross-chain audio & video communication between users,False
 Huddle01,2023-04-07,2800000.0,Seed,East Ventures,Decentralized infrastructure & network that powers cross-chain audio & video communication between users,False
@@ -129,9 +129,9 @@ Conduit,2023-03-28,7000000.0,Seed,Paradigm,None,True
 Conduit,2023-03-28,7000000.0,Seed,Robert Miller,None,False
 Conduit,2023-03-28,7000000.0,Seed,Ludwig Petterson,None,False
 Conduit,2023-03-28,7000000.0,Seed,Dan Romero,None,False
-Conduit,2023-03-28,7000000.0,Seed, Guillaume Poncin,None,False
+Conduit,2023-03-28,7000000.0,Seed,Guillaume Poncin,None,False
 Conduit,2023-03-28,7000000.0,Seed,Joshua Ma,None,False
-Conduit,2023-03-28,7000000.0,Seed, Lakshman Sankar,None,False
+Conduit,2023-03-28,7000000.0,Seed,Lakshman Sankar,None,False
 Narwhal Finance,2023-03-24,1000000.0,Seed,Animoca Ventures,decentralized cross-market perpetual trading platform,True
 Narwhal Finance,2023-03-24,1000000.0,Seed,Hailstone Ventures,decentralized cross-market perpetual trading platform,False
 Particle Network,2023-03-24,7000000.0,Seed,Animoca Brands,mobile app data and development platform for Web3.0,False
@@ -295,7 +295,7 @@ Cubist,2023-03-09,7000000.0,Seed,Dao5,Web3 development tools,False
 Cubist,2023-03-09,7000000.0,Seed,Polygon,Web3 development tools,False
 Cubist,2023-03-09,7000000.0,Seed,Amplify Partners,Web3 development tools,False
 Cubist,2023-03-09,7000000.0,Seed,Axelar,Web3 development tools,False
-Cubist,2023-03-09,7000000.0,Seed,Blizzard ,Web3 development tools,False
+Cubist,2023-03-09,7000000.0,Seed,Blizzard,Web3 development tools,False
 Nealthy,2023-03-08,1300000.0,Pre-Seed,Don Geraldo,Index tokens for NFTs and cryptocurrencies,False
 EtherMail,2023-03-08,4000000.0,pre-Series A,Draper Associates,Web 3.0 Email Solution ,True
 EtherMail,2023-03-08,4000000.0,pre-Series A,MS&AD Ventures,Web 3.0 Email Solution ,False
@@ -317,7 +317,7 @@ Tensor,2023-03-07,3000000.0,Seed,Placeholder,NFT Marketplace,True
 Tensor,2023-03-07,3000000.0,Seed,Solana Ventures,NFT Marketplace,False
 Tensor,2023-03-07,3000000.0,Seed,Alliance DAO,NFT Marketplace,False
 Tensor,2023-03-07,3000000.0,Seed,Big Brain Holdings,NFT Marketplace,False
-Tensor,2023-03-07,3000000.0,Seed,Anatoly Yakovenko ,NFT Marketplace,False
+Tensor,2023-03-07,3000000.0,Seed,Anatoly Yakovenko,NFT Marketplace,False
 Tensor,2023-03-07,3000000.0,Seed,Raj Gokal,NFT Marketplace,False
 Kresus,2023-03-07,25000000.0,Series A,Liberty City Ventures,"Web3 app: wallet, exchange, guide",True
 Kresus,2023-03-07,25000000.0,Series A,Franklin Templeton,"Web3 app: wallet, exchange, guide",False
@@ -327,7 +327,7 @@ Believer,2023-03-07,55000000.0,Series A,Lightspeed Venture Partners,Gaming platf
 Believer,2023-03-07,55000000.0,Series A,a16z,Gaming platform,False
 Scroll,2023-03-06,50000000.0,None,Polychain Capital,zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools,True
 Scroll,2023-03-06,50000000.0,None,Bain Crypto,zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools,True
-Scroll,2023-03-06,50000000.0,None,Robot Ventures ,zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools,False
+Scroll,2023-03-06,50000000.0,None,Robot Ventures,zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools,False
 Scroll,2023-03-06,50000000.0,None,Santiago R. Santos,zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools,False
 Scroll,2023-03-06,50000000.0,None,Anthony Sassano,zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools,False
 Scroll,2023-03-06,50000000.0,None,Ying Tong,zkEVM-based zkRollup on Ethereum that enables native compatibility for existing Ethereum applications and tools,False
@@ -404,7 +404,7 @@ Fluus,2023-02-28,600000.0,Pre-Seed,FHS Capital,Crypto payments,False
 Fluus,2023-02-28,600000.0,Pre-Seed,Encryptus.io,Crypto payments,False
 Avalon Corp,2023-02-28,13000000.0,None,Bitkraft VC,Web3 gaming,True
 Avalon Corp,2023-02-28,13000000.0,None,Hashed,Web3 gaming,False
-Avalon Corp,2023-02-28,13000000.0,None,Delphi Digital ,Web3 gaming,False
+Avalon Corp,2023-02-28,13000000.0,None,Delphi Digital,Web3 gaming,False
 Avalon Corp,2023-02-28,13000000.0,None,Mechanism Capital,Web3 gaming,False
 Avalon Corp,2023-02-28,13000000.0,None,Coinbase Ventures,Web3 gaming,False
 Avalon Corp,2023-02-28,13000000.0,None,Kevin Lin,Web3 gaming,False
@@ -441,7 +441,7 @@ Affine,2023-02-23,5100000.0,Seed,Circle Ventures,cross-chain investment and savi
 Affine,2023-02-23,5100000.0,Seed,Coinbase,cross-chain investment and savings app,False
 Ammalgam,2023-02-23,750000.0,Pre-Seed,Kain Warwick,Lending & trading protocol,False
 Ammalgam,2023-02-23,750000.0,Pre-Seed,1inch,Lending & trading protocol,False
-Ammalgam,2023-02-23,750000.0,Pre-Seed,Robot Ventures ,Lending & trading protocol,False
+Ammalgam,2023-02-23,750000.0,Pre-Seed,Robot Ventures,Lending & trading protocol,False
 Ammalgam,2023-02-23,750000.0,Pre-Seed,Santiago R Santos,Lending & trading protocol,False
 Ammalgam,2023-02-23,750000.0,Pre-Seed,Bodhi Ventures,Lending & trading protocol,False
 Ammalgam,2023-02-23,750000.0,Pre-Seed,BootNode,Lending & trading protocol,False
@@ -613,7 +613,7 @@ YGG,2023-02-17,13800000.0,Strategic ,David LEE Kuo Chuen,blockchain game platfor
 GloryFinance,2023-02-17,3500000.0,Seed,Korean Technology Venture Capital, Simplified DeFi with Cross-chain services and UI innovation,True
 Unagi,2023-02-17,5000000.0,Seed,Sisu Game Ventures,Web3 gaming,True
 Unagi,2023-02-17,5000000.0,Seed,Sfermion,Web3 gaming,False
-Unagi,2023-02-17,5000000.0,Seed,UOB Ventures ,Web3 gaming,False
+Unagi,2023-02-17,5000000.0,Seed,UOB Ventures,Web3 gaming,False
 Unagi,2023-02-17,5000000.0,Seed,Signum Capital,Web3 gaming,False
 Unagi,2023-02-17,5000000.0,Seed,2B Ventures,Web3 gaming,False
 Unagi,2023-02-17,5000000.0,Seed,Machame,Web3 gaming,False
@@ -632,7 +632,7 @@ Sending Labs,2023-02-16,12500000.0,Seed,Uphonest Capital,Web3 Communication Prot
 Sending Labs,2023-02-16,12500000.0,Seed,Aipollo Investment,Web3 Communication Protocol,False
 Salsa,2023-02-16,2000000.0,Pre-Seed,IDEO CoLab Ventures,Web3 messaging,True
 Salsa,2023-02-16,2000000.0,Pre-Seed,Inflection.xyz,Web3 messaging,True
-Salsa,2023-02-16,2000000.0,Pre-Seed,Superscrypt ,Web3 messaging,False
+Salsa,2023-02-16,2000000.0,Pre-Seed,Superscrypt,Web3 messaging,False
 Salsa,2023-02-16,2000000.0,Pre-Seed,Nader Al-Naji,Web3 messaging,False
 Salsa,2023-02-16,2000000.0,Pre-Seed,Liam Horne,Web3 messaging,False
 Salsa,2023-02-16,2000000.0,Pre-Seed,Dan Romero,Web3 messaging,False
@@ -721,7 +721,7 @@ Mino Games,2023-02-09,15000000.0,Series B,Konvoy Ventures,Web3 gaming,False
 Mino Games,2023-02-09,15000000.0,Series B,Bing Gordon,Web3 gaming,False
 Mino Games,2023-02-09,15000000.0,Series B,Don Mattrick,Web3 gaming,False
 Vault,2023-02-09,4000000.0,Series A,Placeholder,Web3 music platform,True
-Vault,2023-02-09,4000000.0,Series A,AlleyCorp ,Web3 music platform,False
+Vault,2023-02-09,4000000.0,Series A,AlleyCorp,Web3 music platform,False
 Vault,2023-02-09,4000000.0,Series A,Bullpen Capital,Web3 music platform,False
 Vault,2023-02-09,4000000.0,Series A,Everblue Management,Web3 music platform,False
 Coincover,2023-02-09,30000000.0,None,Foundation Capital,Digital asset protection,True
@@ -879,7 +879,7 @@ Oh Baby Games,2023-01-30,6000000.0,Seed,Merit Circle,Crypto gaming platform,Fals
 Oh Baby Games,2023-01-30,6000000.0,Seed,Kevin Lin,Crypto gaming platform,False
 Oh Baby Games,2023-01-30,6000000.0,Seed,CL207,Crypto gaming platform,False
 Oh Baby Games,2023-01-30,6000000.0,Seed,inversebrah,Crypto gaming platform,False
-Oh Baby Games,2023-01-30,6000000.0,Seed,Santiago R Santos ,Crypto gaming platform,False
+Oh Baby Games,2023-01-30,6000000.0,Seed,Santiago R Santos,Crypto gaming platform,False
 Oh Baby Games,2023-01-30,6000000.0,Seed,Dr. Serkan Toto,Crypto gaming platform,False
 Senken,2023-01-27,7500000.0,None,Obvious Ventures,Carbon credits platform,True
 Senken,2023-01-27,7500000.0,None,Offline Ventures,Carbon credits platform,True
@@ -893,8 +893,8 @@ Bunzz,2023-01-26,4500000.0,Seed,Ceres,DApp integrated development environment,Fa
 ValuesCo,2023-01-26,2700000.0,Seed,Flori Ventures,Web3 rewards-driven ecosystem,False
 ValuesCo,2023-01-26,2700000.0,Seed,Metaweb,Web3 rewards-driven ecosystem,False
 ValuesCo,2023-01-26,2700000.0,Seed,Own.fund,Web3 rewards-driven ecosystem,False
-ValuesCo,2023-01-26,2700000.0,Seed,Reine Reinsberg ,Web3 rewards-driven ecosystem,False
-ValuesCo,2023-01-26,2700000.0,Seed,Richard Spanton Jr. ,Web3 rewards-driven ecosystem,False
+ValuesCo,2023-01-26,2700000.0,Seed,Reine Reinsberg,Web3 rewards-driven ecosystem,False
+ValuesCo,2023-01-26,2700000.0,Seed,Richard Spanton Jr.,Web3 rewards-driven ecosystem,False
 Brave Group,2023-01-26,2300000.0,Strategic ,Animoca Brands,Metaverse,True
 StoryCo,2023-01-26,6000000.0,Seed,Collab+Currency,Web3 storytelling platform ,True
 StoryCo,2023-01-26,6000000.0,Seed,Patron,Web3 storytelling platform ,True
@@ -955,7 +955,7 @@ Hyper Oracle,2023-01-20,3000000.0,Pre-Seed,FutureMoney Group,"Middleware for ful
 SphereOne,2023-01-20,2500000.0,Seed,Distributed Global,1-click checkout for web3,True
 SphereOne,2023-01-20,2500000.0,Seed,Newark Venture Partners,1-click checkout for web3,False
 SphereOne,2023-01-20,2500000.0,Seed,Zero Knowledge,1-click checkout for web3,False
-SphereOne,2023-01-20,2500000.0,Seed,Leore Avidar ,1-click checkout for web3,False
+SphereOne,2023-01-20,2500000.0,Seed,Leore Avidar,1-click checkout for web3,False
 SphereOne,2023-01-20,2500000.0,Seed,Eric Feldman,1-click checkout for web3,False
 Architect,2023-01-20,5000000.0,Seed,Coinbase Ventures,Trading software to make centralized and decentralized crypto markets easier to use for large investors like institutions,True
 Architect,2023-01-20,5000000.0,Seed,Circle Ventures,Trading software to make centralized and decentralized crypto markets easier to use for large investors like institutions,True
@@ -1022,7 +1022,7 @@ Metahood,2023-01-18,3000000.0,Seed,Flamingo DAO,Metaverse,False
 Metahood,2023-01-18,3000000.0,Seed,Neon DAO,Metaverse,False
 Metahood,2023-01-18,3000000.0,Seed,Sébastien Borget,Metaverse,False
 Metahood,2023-01-18,3000000.0,Seed,John Crain,Metaverse,False
-Metahood,2023-01-18,3000000.0,Seed, Brian O'Hagan,Metaverse,False
+Metahood,2023-01-18,3000000.0,Seed,Brian O'Hagan,Metaverse,False
 Metahood,2023-01-18,3000000.0,Seed,Packy McCormick,Metaverse,False
 Diva,2023-01-17,3500000.0,Seed,AT&T Capital,Ethereum Liquid Staking using Distributed Validators,True
 Diva,2023-01-17,3500000.0,Seed,Gnosis,Ethereum Liquid Staking using Distributed Validators,False
@@ -1063,7 +1063,7 @@ Obol Labs,2023-01-17,12500000.0,Series A,Pantera Capital,Building Distributed Va
 Obol Labs,2023-01-17,12500000.0,Series A,Archetype Ventures,Building Distributed Validators for Ethereum,True
 Obol Labs,2023-01-17,12500000.0,Series A,BlockTower Capital,Building Distributed Validators for Ethereum,False
 Obol Labs,2023-01-17,12500000.0,Series A,Placeholder,Building Distributed Validators for Ethereum,False
-Obol Labs,2023-01-17,12500000.0,Series A,Nascent ,Building Distributed Validators for Ethereum,False
+Obol Labs,2023-01-17,12500000.0,Series A,Nascent,Building Distributed Validators for Ethereum,False
 Obol Labs,2023-01-17,12500000.0,Series A,IEX,Building Distributed Validators for Ethereum,False
 Obol Labs,2023-01-17,12500000.0,Series A,The Spartan Group,Building Distributed Validators for Ethereum,False
 Obol Labs,2023-01-17,12500000.0,Series A,Coinbase Ventures,Building Distributed Validators for Ethereum,False
@@ -1112,7 +1112,7 @@ Easy Company,2023-01-10,14200000.0,Seed,Lobby Capital,Social crypto wallet,False
 Easy Company,2023-01-10,14200000.0,Seed,Relay Ventures,Social crypto wallet,False
 Easy Company,2023-01-10,14200000.0,Seed,6th Man Ventures,Social crypto wallet,False
 Easy Company,2023-01-10,14200000.0,Seed,Tapestry,Social crypto wallet,False
-Easy Company,2023-01-10,14200000.0,Seed,Upside ,Social crypto wallet,False
+Easy Company,2023-01-10,14200000.0,Seed,Upside,Social crypto wallet,False
 Easy Company,2023-01-10,14200000.0,Seed,Scribble Ventures,Social crypto wallet,False
 Easy Company,2023-01-10,14200000.0,Seed,Jim Everingham,Social crypto wallet,False
 Easy Company,2023-01-10,14200000.0,Seed,Kevin Weil,Social crypto wallet,False
@@ -1127,7 +1127,7 @@ Jumbo,2023-01-10,3500000.0,Strategic Private Sale,Genblock Capital,Decentralized
 MSafe,2023-01-05,5000000.0,Seed,Jump Crypto,multi-signature wallet solution on the Aptos / Move ecosystem,True
 MSafe,2023-01-05,5000000.0,Seed,Circle Ventures,multi-signature wallet solution on the Aptos / Move ecosystem,False
 MSafe,2023-01-05,5000000.0,Seed,Coinbase Ventures,multi-signature wallet solution on the Aptos / Move ecosystem,False
-MSafe,2023-01-05,5000000.0,Seed,Superscrypt ,multi-signature wallet solution on the Aptos / Move ecosystem,False
+MSafe,2023-01-05,5000000.0,Seed,Superscrypt,multi-signature wallet solution on the Aptos / Move ecosystem,False
 MSafe,2023-01-05,5000000.0,Seed,Redpoint,multi-signature wallet solution on the Aptos / Move ecosystem,False
 MSafe,2023-01-05,5000000.0,Seed,Shima Capital,multi-signature wallet solution on the Aptos / Move ecosystem,False
 MSafe,2023-01-05,5000000.0,Seed,The Spartan Group,multi-signature wallet solution on the Aptos / Move ecosystem,False
@@ -1196,7 +1196,7 @@ Blockbrain,2022-12-16,2500000.0,Pre-Seed,Sebastian Schmidt,Personal web3 guardia
 Blockbrain,2022-12-16,2500000.0,Pre-Seed,Gregor Stuhler,Personal web3 guardian,False
 Blockbrain,2022-12-16,2500000.0,Pre-Seed,w3.fund,Personal web3 guardian,False
 Blockbrain,2022-12-16,2500000.0,Pre-Seed,Robert Maier,Personal web3 guardian,False
-Blockbrain,2022-12-16,2500000.0,Pre-Seed, Marcus Erken,Personal web3 guardian,False
+Blockbrain,2022-12-16,2500000.0,Pre-Seed,Marcus Erken,Personal web3 guardian,False
 Blockbrain,2022-12-16,2500000.0,Pre-Seed,Unifier Ventures,Personal web3 guardian,False
 Blockbrain,2022-12-16,2500000.0,Pre-Seed,Jakob Schreyer,Personal web3 guardian,False
 Blockbrain,2022-12-16,2500000.0,Pre-Seed,zeitgeistgroup,Personal web3 guardian,False
@@ -1554,7 +1554,7 @@ Vezgo,2022-11-21,750000.0,Pre-Seed,Bitnomic Capital,Crypto API,False
 Vezgo,2022-11-21,750000.0,Pre-Seed,Flinks Technologies,Crypto API,False
 Vezgo,2022-11-21,750000.0,Pre-Seed,M2S Capital,Crypto API,False
 Vezgo,2022-11-21,750000.0,Pre-Seed,Chouinard Family Office,Crypto API,False
-Vezgo,2022-11-21,750000.0,Pre-Seed, Andrew Izyumov,Crypto API,False
+Vezgo,2022-11-21,750000.0,Pre-Seed,Andrew Izyumov,Crypto API,False
 Vezgo,2022-11-21,750000.0,Pre-Seed,Rachid Ajaja,Crypto API,False
 Heroic Story,2022-11-17,6000000.0,Seed,Upfront Ventures,web3 gaming and entertainment studio,True
 Heroic Story,2022-11-17,6000000.0,Seed,Multicoin Capital,web3 gaming and entertainment studio,False
@@ -1606,7 +1606,7 @@ Jumbo ,2022-11-15,3500000.0,Private,Fundamental Labs,AMM on Near,False
 Jumbo ,2022-11-15,3500000.0,Private,Metaweb,AMM on Near,False
 Yakoa,2022-11-15,4800000.0,Equity,Brevan Howard Digital,NFT fraud detection,True
 Yakoa,2022-11-15,4800000.0,Equity,Volt Capital,NFT fraud detection,True
-Yakoa,2022-11-15,4800000.0,Equity,Collab+Currency ,NFT fraud detection,True
+Yakoa,2022-11-15,4800000.0,Equity,Collab+Currency,NFT fraud detection,True
 Yakoa,2022-11-15,4800000.0,Equity,Alliance DAO,NFT fraud detection,False
 Yakoa,2022-11-15,4800000.0,Equity,Uniswap Labs Ventures,NFT fraud detection,False
 Yakoa,2022-11-15,4800000.0,Equity,OrangeDAO,NFT fraud detection,False
@@ -1629,13 +1629,13 @@ TRM Labs,2022-11-09,70000000.0,Series B,Citi Ventures,"TRM helps financial insti
 Ramp,2022-11-09,70000000.0,Series B,Mubadala Capital,Crypto payments firm,True
 Ramp,2022-11-09,70000000.0,Series B,Korelya Capital,Crypto payments firm,True
 Ramp,2022-11-09,70000000.0,Series B,Cogito Capital,Crypto payments firm,False
-Ramp,2022-11-09,70000000.0,Series B,Balderton Capital ,Crypto payments firm,False
+Ramp,2022-11-09,70000000.0,Series B,Balderton Capital,Crypto payments firm,False
 Notifi,2022-11-09,10000000.0,Seed,Hashed,Web3 messaging infrastructure,True
 Notifi,2022-11-09,10000000.0,Seed,Race Capital,Web3 messaging infrastructure,True
 Notifi,2022-11-09,10000000.0,Seed,Struck Capital,Web3 messaging infrastructure,False
 Notifi,2022-11-09,10000000.0,Seed,HRT Capital,Web3 messaging infrastructure,False
 Notifi,2022-11-09,10000000.0,Seed,Wintermute,Web3 messaging infrastructure,False
-Notifi,2022-11-09,10000000.0,Seed,Superscrypt ,Web3 messaging infrastructure,False
+Notifi,2022-11-09,10000000.0,Seed,Superscrypt,Web3 messaging infrastructure,False
 Sepana,2022-11-08,10000000.0,Private,Hack VC,Decentralized search platform,True
 Sepana,2022-11-08,10000000.0,Private,Pitango First,Decentralized search platform,True
 Sepana,2022-11-08,10000000.0,Private,Protocol Labs,Decentralized search platform,False
@@ -1678,7 +1678,7 @@ Xternity,2022-11-07,4500000.0,Pre-Seed,Secret Chord Ventures,Web3 gaming infrast
 Xternity,2022-11-07,4500000.0,Pre-Seed,vGames,Web3 gaming infrastructure,False
 Blockstars,2022-11-05,5000000.0,Equity + Token,Play Ventures,Web3 rock band game,True
 Blockstars,2022-11-05,5000000.0,Equity + Token,Makers Fund,Web3 rock band game,False
-Blockstars,2022-11-05,5000000.0,Equity + Token,Solana Ventures ,Web3 rock band game,False
+Blockstars,2022-11-05,5000000.0,Equity + Token,Solana Ventures,Web3 rock band game,False
 Blockstars,2022-11-05,5000000.0,Equity + Token,Magic Eden,Web3 rock band game,False
 Blockstars,2022-11-05,5000000.0,Equity + Token,Merit Circle,Web3 rock band game,False
 Blockstars,2022-11-05,5000000.0,Equity + Token,Citizen X,Web3 rock band game,False
@@ -1744,7 +1744,7 @@ Courtyard,2022-11-02,7000000.0,Seed,Brink's,Physically-backed NFT platform,False
 Courtyard,2022-11-02,7000000.0,Seed,Cherry Ventures,Physically-backed NFT platform,False
 Mozart,2022-11-01,3000000.0,Pre-Seed,Arcanum Capital,"Simple, Powerful NFT APIs forGame Developers ",False
 Mozart,2022-11-01,3000000.0,Pre-Seed,AG Build,"Simple, Powerful NFT APIs forGame Developers ",False
-Mozart,2022-11-01,3000000.0,Pre-Seed,Future Perfect Venture ,"Simple, Powerful NFT APIs forGame Developers ",False
+Mozart,2022-11-01,3000000.0,Pre-Seed,Future Perfect Venture,"Simple, Powerful NFT APIs forGame Developers ",False
 Mozart,2022-11-01,3000000.0,Pre-Seed,SaxeCap,"Simple, Powerful NFT APIs forGame Developers ",False
 NiftyApes,2022-11-01,4200000.0,Seed,Variant,Liquidity protocol for NFTs,True
 NiftyApes,2022-11-01,4200000.0,Seed,FinTech Collective,Liquidity protocol for NFTs,True
@@ -1809,7 +1809,7 @@ Cryptosat,2022-10-28,3000000.0,Seed,Protocol Labs,Crypto-satellites that power b
 Martian,2022-10-27,3000000.0,Pre-Seed,Race Capital,Aptos Wallet,True
 Martian,2022-10-27,3000000.0,Pre-Seed,FTX Ventures,Aptos Wallet,False
 Martian,2022-10-27,3000000.0,Pre-Seed,Jump Capital,Aptos Wallet,False
-Martian,2022-10-27,3000000.0,Pre-Seed,Superscrypt ,Aptos Wallet,False
+Martian,2022-10-27,3000000.0,Pre-Seed,Superscrypt,Aptos Wallet,False
 Fun,2022-10-27,3900000.0,Seed,Jam Fund,Wallet infrastructure,True
 Fun,2022-10-27,3900000.0,Seed,Soma Ventures,Wallet infrastructure,False
 Fun,2022-10-27,3900000.0,Seed,Nomo Ventures,Wallet infrastructure,False
@@ -1929,7 +1929,7 @@ Celestia,2022-10-19,55000000.0,Series A & B,Bain Capital Crypto,"The first modul
 Celestia,2022-10-19,55000000.0,Series A & B,Polychain Capital,"The first modular blockchain network to power scalable, secure Web3 app",True
 Celestia,2022-10-19,55000000.0,Series A & B,Placeholder,"The first modular blockchain network to power scalable, secure Web3 app",False
 Celestia,2022-10-19,55000000.0,Series A & B,Galaxy Digital,"The first modular blockchain network to power scalable, secure Web3 app",False
-Celestia,2022-10-19,55000000.0,Series A & B,Delphi Digital ,"The first modular blockchain network to power scalable, secure Web3 app",False
+Celestia,2022-10-19,55000000.0,Series A & B,Delphi Digital,"The first modular blockchain network to power scalable, secure Web3 app",False
 Celestia,2022-10-19,55000000.0,Series A & B,Blockchain Capital,"The first modular blockchain network to power scalable, secure Web3 app",False
 Celestia,2022-10-19,55000000.0,Series A & B,NFX,"The first modular blockchain network to power scalable, secure Web3 app",False
 Celestia,2022-10-19,55000000.0,Series A & B,Protocol Labs,"The first modular blockchain network to power scalable, secure Web3 app",False
@@ -2095,7 +2095,7 @@ YoloYolo,2022-10-17,3500000.0,Seed,ParaFi Capital,Web3 fashion & lifestyle platf
 YoloYolo,2022-10-17,3500000.0,Seed,Mirana Ventures,Web3 fashion & lifestyle platform,False
 YoloYolo,2022-10-17,3500000.0,Seed,Morningstar Ventures,Web3 fashion & lifestyle platform,False
 YoloYolo,2022-10-17,3500000.0,Seed,Avalanche Asia Star Fund,Web3 fashion & lifestyle platform,False
-YoloYolo,2022-10-17,3500000.0,Seed,UOB Ventures ,Web3 fashion & lifestyle platform,False
+YoloYolo,2022-10-17,3500000.0,Seed,UOB Ventures,Web3 fashion & lifestyle platform,False
 YoloYolo,2022-10-17,3500000.0,Seed,Signum Capital,Web3 fashion & lifestyle platform,False
 YoloYolo,2022-10-17,3500000.0,Seed,Genblock Capital,Web3 fashion & lifestyle platform,False
 YoloYolo,2022-10-17,3500000.0,Seed,CsquaredVC,Web3 fashion & lifestyle platform,False
@@ -2169,8 +2169,8 @@ Gomu,2022-10-12,5000000.0,Seed,DeFiance Capital,NFT Infrastructure,False
 Gomu,2022-10-12,5000000.0,Seed,Saison Capital,NFT Infrastructure,False
 Gomu,2022-10-12,5000000.0,Seed,Carylyne Chan,NFT Infrastructure,False
 Gomu,2022-10-12,5000000.0,Seed,Matthew Tan,NFT Infrastructure,False
-Gomu,2022-10-12,5000000.0,Seed,Bobby Ong ,NFT Infrastructure,False
-Gomu,2022-10-12,5000000.0,Seed,TM Lee ,NFT Infrastructure,False
+Gomu,2022-10-12,5000000.0,Seed,Bobby Ong,NFT Infrastructure,False
+Gomu,2022-10-12,5000000.0,Seed,TM Lee,NFT Infrastructure,False
 Gomu,2022-10-12,5000000.0,Seed,Mike Dudas,NFT Infrastructure,False
 Gomu,2022-10-12,5000000.0,Seed,Benedict Chan,NFT Infrastructure,False
 nxyz,2022-10-12,40000000.0,Series A,Paradigm,Blockchain indexing for web3 developers,True
@@ -2223,7 +2223,7 @@ Tribo Games,2022-10-10,1170000.0,Pre-Seed,Sis Games Ventures,Web3 game studio,Fa
 Tribo Games,2022-10-10,1170000.0,Pre-Seed,Joakim Achren,Web3 game studio,False
 Elyzio,2022-10-10,2000000.0,Preseed,Vgames,Game company,True
 Elyzio,2022-10-10,2000000.0,Preseed,Shima Capital,Game company,False
-Elyzio,2022-10-10,2000000.0,Preseed,Solana Ventures ,Game company,False
+Elyzio,2022-10-10,2000000.0,Preseed,Solana Ventures,Game company,False
 Elyzio,2022-10-10,2000000.0,Preseed,Paribu Ventures,Game company,False
 Elyzio,2022-10-10,2000000.0,Preseed,Abdelmounaim Derraz,Game company,False
 Flowstate Games,2022-10-10,2000000.0,Pre-Seed,Play Ventures,Game Studio,True
@@ -2247,7 +2247,7 @@ Blackbird,2022-10-06,11000000.0,Seed,Multicoin Capital,Web3 hospitality platform
 Blackbird,2022-10-06,11000000.0,Seed,Variant Fund,Web3 hospitality platform,False
 Blackbird,2022-10-06,11000000.0,Seed,Circle Ventures,Web3 hospitality platform,False
 Blackbird,2022-10-06,11000000.0,Seed,IAC,Web3 hospitality platform,False
-MynaSwap,2022-10-06,6000000.0,Seed,Blizzard ,trading and vaulting platform for collectibles,False
+MynaSwap,2022-10-06,6000000.0,Seed,Blizzard,trading and vaulting platform for collectibles,False
 MynaSwap,2022-10-06,6000000.0,Seed,The Spartan Group,trading and vaulting platform for collectibles,False
 MynaSwap,2022-10-06,6000000.0,Seed,Odell Beckham Jr.,trading and vaulting platform for collectibles,False
 MynaSwap,2022-10-06,6000000.0,Seed,Kyler Murray,trading and vaulting platform for collectibles,False
@@ -2260,7 +2260,7 @@ Bond Protocol,2022-10-06,2500000.0,Seed,Chapter One,Bonding-as-a-Service,True
 Bond Protocol,2022-10-06,2500000.0,Seed,Hypershere,Bonding-as-a-Service,False
 Bond Protocol,2022-10-06,2500000.0,Seed,Alchemy Ventures,Bonding-as-a-Service,False
 Suberra,2022-10-06,2700000.0,Seed,DeFiance Capital,None,False
-Suberra,2022-10-06,2700000.0,Seed,Delphi Digital ,None,False
+Suberra,2022-10-06,2700000.0,Seed,Delphi Digital,None,False
 Suberra,2022-10-06,2700000.0,Seed,Terra,None,False
 Suberra,2022-10-06,2700000.0,Seed,The Spartan Group,None,False
 Suberra,2022-10-06,2700000.0,Seed,Hashed,None,False
@@ -2316,7 +2316,7 @@ Stems,2022-10-03,4000000.0,Pre-Seed,FireEyes,Music Platform,False
 Stems,2022-10-03,4000000.0,Pre-Seed,NoiseDAO,Music Platform,False
 Stems,2022-10-03,4000000.0,Pre-Seed,Jump Crypto,Music Platform,False
 Stems,2022-10-03,4000000.0,Pre-Seed,GSR,Music Platform,False
-Stems,2022-10-03,4000000.0,Pre-Seed,Akatsuki ,Music Platform,False
+Stems,2022-10-03,4000000.0,Pre-Seed,Akatsuki,Music Platform,False
 Golden,2022-10-03,40000000.0,Series B,a16z,Data,True
 Golden,2022-10-03,40000000.0,Series B,Raj Gokal,Data,False
 Golden,2022-10-03,40000000.0,Series B,Arash Ferdowsi,Data,False
@@ -2383,7 +2383,7 @@ Tokenscript,2022-09-27,6000000.0,None,HashGlobal,Programmable smart token interf
 Tokenscript,2022-09-27,6000000.0,None,Bodl,Programmable smart token interface,False
 Tokenscript,2022-09-27,6000000.0,None,Fenbushi Capital,Programmable smart token interface,False
 Tokenscript,2022-09-27,6000000.0,None,SNZ Capital,Programmable smart token interface,False
-Tokenscript,2022-09-27,6000000.0,None,UOB Ventures ,Programmable smart token interface,False
+Tokenscript,2022-09-27,6000000.0,None,UOB Ventures,Programmable smart token interface,False
 Tokenscript,2022-09-27,6000000.0,None,Signum Capital,Programmable smart token interface,False
 Tokenscript,2022-09-27,6000000.0,None,MH Ventures,Programmable smart token interface,False
 Tokenscript,2022-09-27,6000000.0,None,Zhang Fan,Programmable smart token interface,False
@@ -2409,7 +2409,7 @@ Space and Time,2022-09-27,20000000.0,Strategic ,Coin DCX,Indexer,False
 Space and Time,2022-09-27,20000000.0,Strategic ,HashKey,Indexer,False
 Space and Time,2022-09-27,20000000.0,Strategic ,SevenX Ventures,Indexer,False
 Space and Time,2022-09-27,20000000.0,Strategic ,Foresight Ventures,Indexer,False
-Space and Time,2022-09-27,20000000.0,Strategic ,Blizzard ,Indexer,False
+Space and Time,2022-09-27,20000000.0,Strategic ,Blizzard,Indexer,False
 Space and Time,2022-09-27,20000000.0,Strategic ,MystenLabs,Indexer,False
 Space and Time,2022-09-27,20000000.0,Strategic ,FellowsFund,Indexer,False
 Space and Time,2022-09-27,20000000.0,Strategic ,Hash Capital,Indexer,False
@@ -2443,7 +2443,7 @@ dAMM Finance,2022-09-27,2000000.0,Private token sale,Prismatic,Lending,False
 dAMM Finance,2022-09-27,2000000.0,Private token sale,WOO Network,Lending,False
 dAMM Finance,2022-09-27,2000000.0,Private token sale,Fisher8,Lending,False
 dAMM Finance,2022-09-27,2000000.0,Private token sale,Concave,Lending,False
-dAMM Finance,2022-09-27,2000000.0,Private token sale,Berachain ,Lending,False
+dAMM Finance,2022-09-27,2000000.0,Private token sale,Berachain,Lending,False
 dAMM Finance,2022-09-27,2000000.0,Private token sale,System 9,Lending,False
 dAMM Finance,2022-09-27,2000000.0,Private token sale,Ledger Prime,Lending,False
 Bitquery,2022-09-27,8500000.0,Seed,Binance Labs,Data,True
@@ -2468,7 +2468,7 @@ Hadean,2022-09-23,30000000.0,Series A,InQTel,Metaverse Infrastructure ,False
 Kwil,2022-09-23,9600000.0,None,FTX Ventures,Data Infrastructure ,False
 Kwil,2022-09-23,9600000.0,None,DCG,Data Infrastructure ,False
 Kwil,2022-09-23,9600000.0,None,Blockchange Ventures,Data Infrastructure ,False
-Kwil,2022-09-23,9600000.0,None,AlleyCorp ,Data Infrastructure ,False
+Kwil,2022-09-23,9600000.0,None,AlleyCorp,Data Infrastructure ,False
 Kwil,2022-09-23,9600000.0,None,Amplify Partners,Data Infrastructure ,False
 Skip,2022-09-22,6500000.0,Seed,Bain Crypto,MEV Infrastructure,True
 Skip,2022-09-22,6500000.0,Seed,Galaxy Digital,MEV Infrastructure,False
@@ -2491,13 +2491,13 @@ Hume,2022-09-22,11700000.0,Series A,gmoney,Web3 record label,False
 3Commas,2022-09-22,37000000.0,Series B,Jump Capital,Trading bot,True
 3Commas,2022-09-22,37000000.0,Series B,Target Global,Trading bot,True
 3Commas,2022-09-22,37000000.0,Series B,Dmitry Tokarev,Trading bot,True
-Binocs,2022-09-22,4000000.0,Seed,Beenext ,Tax Reporting,True
-Binocs,2022-09-22,4000000.0,Seed,Arkam ,Tax Reporting,True
+Binocs,2022-09-22,4000000.0,Seed,Beenext,Tax Reporting,True
+Binocs,2022-09-22,4000000.0,Seed,Arkam,Tax Reporting,True
 Binocs,2022-09-22,4000000.0,Seed,Accel,Tax Reporting,False
 Binocs,2022-09-22,4000000.0,Seed,Saison Capital,Tax Reporting,False
 Binocs,2022-09-22,4000000.0,Seed,Better Capital,Tax Reporting,False
 Block Green,2022-09-22,3700000.0,Seed,Founders Fund,Lending,True
-Block Green,2022-09-22,3700000.0,Seed,Blizzard ,Lending,False
+Block Green,2022-09-22,3700000.0,Seed,Blizzard,Lending,False
 Block Green,2022-09-22,3700000.0,Seed,Dao5,Lending,False
 Block Green,2022-09-22,3700000.0,Seed,Coinbase,Lending,False
 Immunefi,2022-09-22,24000000.0,Series A,Framework Ventures,Bug Bounty,True
@@ -2600,7 +2600,7 @@ Tres,2022-09-20,7600000.0,Seed,Alchemy,Accounting,False
 Tres,2022-09-20,7600000.0,Seed,New Form,Accounting,False
 Tres,2022-09-20,7600000.0,Seed,Kenetic Capital,Accounting,False
 Tres,2022-09-20,7600000.0,Seed,Blockdaemon,Accounting,False
-Tres,2022-09-20,7600000.0,Seed,Mantis ,Accounting,False
+Tres,2022-09-20,7600000.0,Seed,Mantis,Accounting,False
 Tres,2022-09-20,7600000.0,Seed,Michael Shaulov,Accounting,False
 Tres,2022-09-20,7600000.0,Seed,Michael Gronager,Accounting,False
 Random Games,2022-09-20,7600000.0,Seed,Resolute Ventures,Gaming Studio,True
@@ -2615,7 +2615,7 @@ Integral,2022-09-20,8500000.0,Seed,Balaji Srinivasan,Accounting,False
 Integral,2022-09-20,8500000.0,Seed,Diogo Mónica,Accounting,False
 Integral,2022-09-20,8500000.0,Seed,Roham Gharegozlou,Accounting,False
 Integral,2022-09-20,8500000.0,Seed,Hustle Fund,Accounting,False
-Integral,2022-09-20,8500000.0,Seed,Mantis ,Accounting,False
+Integral,2022-09-20,8500000.0,Seed,Mantis,Accounting,False
 Integral,2022-09-20,8500000.0,Seed,Maple VC,Accounting,False
 Yellow Card Financial,2022-09-19,40000000.0,Series B,Polychain Capital,CEX,True
 Yellow Card Financial,2022-09-19,40000000.0,Series B,Valar Ventures,CEX,False
@@ -2697,7 +2697,7 @@ Doodles,2022-09-13,54000000.0,Series A,Seven Seven Six,NFT,True
 Doodles,2022-09-13,54000000.0,Series A,Acrew Capital,NFT,False
 Doodles,2022-09-13,54000000.0,Series A,FTX Ventures,NFT,False
 Doodles,2022-09-13,54000000.0,Series A,10T Holdings,NFT,False
-Goldsky,2022-09-13,20000000.0,Seed,Felicis ,Data Infrastructure,True
+Goldsky,2022-09-13,20000000.0,Seed,Felicis,Data Infrastructure,True
 Goldsky,2022-09-13,20000000.0,Seed,Dragonfly Capital,Data Infrastructure,True
 Goldsky,2022-09-13,20000000.0,Seed,Elad Gil,Data Infrastructure,False
 Goldsky,2022-09-13,20000000.0,Seed,Zach Perret,Data Infrastructure,False
@@ -2807,7 +2807,7 @@ Mysten Labs ,2022-09-08,300000000.0,Series B,The Spartan Group,L1,False
 Mysten Labs ,2022-09-08,300000000.0,Series B,Coinbase,L1,False
 Mysten Labs ,2022-09-08,300000000.0,Series B,Lightspeed,L1,False
 Animoca Brands,2022-09-08,110000000.0,Convertible note issuance,Temasek,Blockchain gaming developer,False
-Animoca Brands,2022-09-08,110000000.0,Convertible note issuance,Boyu Capital ,Blockchain gaming developer,False
+Animoca Brands,2022-09-08,110000000.0,Convertible note issuance,Boyu Capital,Blockchain gaming developer,False
 Animoca Brands,2022-09-08,110000000.0,Convertible note issuance,CGV Capital,Blockchain gaming developer,False
 Slide,2022-09-08,12300000.0,Seed,Polychain Capital,None,True
 Slide,2022-09-08,12300000.0,Seed,Framework Ventures,None,True
@@ -2904,7 +2904,7 @@ Dust Labs,2022-09-06,7000000.0,Seed,Jupiter,None,False
 Dust Labs,2022-09-06,7000000.0,Seed,Hyperspace,None,False
 Dust Labs,2022-09-06,7000000.0,Seed,Solana Ventures,None,False
 Dust Labs,2022-09-06,7000000.0,Seed,Mysten Labs,None,False
-Dust Labs,2022-09-06,7000000.0,Seed,Cymbal ,None,False
+Dust Labs,2022-09-06,7000000.0,Seed,Cymbal,None,False
 Florence Finance,2022-09-05,3000000.0,Seed,Big Brain Holdings,RWA Lending Platform,False
 Florence Finance,2022-09-05,3000000.0,Seed,Bixin Ventures,RWA Lending Platform,False
 Florence Finance,2022-09-05,3000000.0,Seed,AscendEX,RWA Lending Platform,False
@@ -2916,7 +2916,7 @@ Florence Finance,2022-09-05,3000000.0,Seed,Newform Capital,RWA Lending Platform,
 Florence Finance,2022-09-05,3000000.0,Seed,Fox Ventures,RWA Lending Platform,False
 Sei Network,2022-08-31,5000000.0,Seed,Multicoin Capital,None,True
 Sei Network,2022-08-31,5000000.0,Seed,Coinbase Ventures,None,False
-Sei Network,2022-08-31,5000000.0,Seed,Delphi Digital ,None,False
+Sei Network,2022-08-31,5000000.0,Seed,Delphi Digital,None,False
 Sei Network,2022-08-31,5000000.0,Seed,Hudson River Trading,None,False
 Sei Network,2022-08-31,5000000.0,Seed,GSR,None,False
 Sei Network,2022-08-31,5000000.0,Seed,Hypershere,None,False
@@ -3095,13 +3095,13 @@ Ready Player me,2022-08-23,56000000.0,Series B,D’Amelio family,Metaverse,False
 Ready Player me,2022-08-23,56000000.0,Series B,Punk6529,Metaverse,False
 Ready Player me,2022-08-23,56000000.0,Series B,Snowfro,Metaverse,False
 Ready Player me,2022-08-23,56000000.0,Series B,Nordic Ninja,Metaverse,False
-Ready Player me,2022-08-23,56000000.0,Series B,Konvoy ,Metaverse,False
+Ready Player me,2022-08-23,56000000.0,Series B,Konvoy,Metaverse,False
 Orange DAO,2022-08-23,80000000.0,None,Near,investment DAO,True
 Orange DAO,2022-08-23,80000000.0,None,Algorand Inc.,investment DAO,True
 Mural,2022-08-23,5600000.0,Seed,DCG,DAO tooling,True
 Mural,2022-08-23,5600000.0,Seed,Galaxy Ventures,DAO tooling,False
 Mural,2022-08-23,5600000.0,Seed,Firstminute Capital,DAO tooling,False
-Mural,2022-08-23,5600000.0,Seed,AlleyCorp ,DAO tooling,False
+Mural,2022-08-23,5600000.0,Seed,AlleyCorp,DAO tooling,False
 Mural,2022-08-23,5600000.0,Seed,186 Ventures,DAO tooling,False
 Mural,2022-08-23,5600000.0,Seed,Predictive VC,DAO tooling,False
 Mural,2022-08-23,5600000.0,Seed,Global Coin Research,DAO tooling,False
@@ -3161,12 +3161,12 @@ GitPOAP,2022-08-18,4000000.0,Seed,POAP,None,False
 GitPOAP,2022-08-18,4000000.0,Seed,Balaji Srinivasan,None,False
 Primitive ,2022-08-18,9000000.0,Series A,Bain Capital Crypto,AMM,True
 Primitive ,2022-08-18,9000000.0,Series A,1Confirmation,AMM,False
-Primitive ,2022-08-18,9000000.0,Series A,Nascent ,AMM,False
+Primitive ,2022-08-18,9000000.0,Series A,Nascent,AMM,False
 Primitive ,2022-08-18,9000000.0,Series A,Robot Ventures,AMM,False
 Koibanx,2022-08-18,22000000.0,Series A,Algorand Inc.,Asset Tokenization,True
 Koibanx,2022-08-18,22000000.0,Series A,Borderless Capital,Asset Tokenization,False
 Koibanx,2022-08-18,22000000.0,Series A,Kalonia Venture Partners,Asset Tokenization,False
-Koibanx,2022-08-18,22000000.0,Series A,G2 ,Asset Tokenization,False
+Koibanx,2022-08-18,22000000.0,Series A,G2,Asset Tokenization,False
 Koibanx,2022-08-18,22000000.0,Series A,Innogen Capital,Asset Tokenization,False
 MatchboxDAO,2022-08-17,7500000.0,Seed,StarkWare,Gaming Ecosystem DAO,True
 MatchboxDAO,2022-08-17,7500000.0,Seed,Big Brain Holdings,Gaming Ecosystem DAO,True
@@ -3243,7 +3243,7 @@ Jito Labs,2022-08-12,10000000.0,Series A,Multicoin Capital,MEV,True
 Jito Labs,2022-08-12,10000000.0,Series A,Framework Ventures,MEV,True
 Jito Labs,2022-08-12,10000000.0,Series A,Alameda Research,MEV,False
 Jito Labs,2022-08-12,10000000.0,Series A,Solana Ventures,MEV,False
-Jito Labs,2022-08-12,10000000.0,Series A,Delphi Digital ,MEV,False
+Jito Labs,2022-08-12,10000000.0,Series A,Delphi Digital,MEV,False
 Jito Labs,2022-08-12,10000000.0,Series A,MGNR,MEV,False
 Jito Labs,2022-08-12,10000000.0,Series A,Robot Ventures,MEV,False
 Jito Labs,2022-08-12,10000000.0,Series A,18decimal,MEV,False
@@ -3265,7 +3265,7 @@ Ansible Labs,2022-08-11,7000000.0,Seed,Castle Island Ventures,Payments,False
 Ansible Labs,2022-08-11,7000000.0,Seed,A* Partners,Payments,False
 Ansible Labs,2022-08-11,7000000.0,Seed,Arca,Payments,False
 Ansible Labs,2022-08-11,7000000.0,Seed,Soma Capital,Payments,False
-Ansible Labs,2022-08-11,7000000.0,Seed,Plural VC ,Payments,False
+Ansible Labs,2022-08-11,7000000.0,Seed,Plural VC,Payments,False
 Ansible Labs,2022-08-11,7000000.0,Seed,Eniac Ventures,Payments,False
 Datawisp,2022-08-11,3600000.0,Seed,CoinFund,no-code data exploration platform,True
 Datawisp,2022-08-11,3600000.0,Seed,Spartan Capital,no-code data exploration platform,False
@@ -3298,13 +3298,13 @@ CreatorDAO,2022-08-10,20000000.0,Seed,Paris Hilton,DAO,False
 CreatorDAO,2022-08-10,20000000.0,Seed,The Chainsmokers,DAO,False
 CreatorDAO,2022-08-10,20000000.0,Seed,Michael Ovtiz,DAO,False
 CreatorDAO,2022-08-10,20000000.0,Seed,Liam Payne,DAO,False
-Pinata,2022-08-10,18000000.0,Series A,Greylock ,NFT media,True
+Pinata,2022-08-10,18000000.0,Series A,Greylock,NFT media,True
 Pinata,2022-08-10,18000000.0,Series A,Pantera Capital,NFT media,True
 Pinata,2022-08-10,18000000.0,Series A,Volt Capital,NFT media,False
 Pinata,2022-08-10,18000000.0,Series A,OpenSea Ventures,NFT media,False
 Pinata,2022-08-10,18000000.0,Series A,Alchemy Ventures,NFT media,False
 Lysto,2022-08-10,12000000.0,pre-Series A,Square Peg,Verification,True
-Lysto,2022-08-10,12000000.0,pre-Series A,Beenext ,Verification,True
+Lysto,2022-08-10,12000000.0,pre-Series A,Beenext,Verification,True
 Lysto,2022-08-10,12000000.0,pre-Series A,Hashed,Verification,True
 Lysto,2022-08-10,12000000.0,pre-Series A,Tiger Global,Verification,False
 Lysto,2022-08-10,12000000.0,pre-Series A,Better Capital,Verification,False
@@ -3312,7 +3312,7 @@ Lysto,2022-08-10,12000000.0,pre-Series A,Balaji Srinivasan,Verification,False
 Lysto,2022-08-10,12000000.0,pre-Series A,Paul Veradittakit,Verification,False
 Lysto,2022-08-10,12000000.0,pre-Series A,Binny Bansal,Verification,False
 Lysto,2022-08-10,12000000.0,pre-Series A,Bobby Ong,Verification,False
-Lysto,2022-08-10,12000000.0,pre-Series A,TM Lee ,Verification,False
+Lysto,2022-08-10,12000000.0,pre-Series A,TM Lee,Verification,False
 Merkle Science,2022-08-10,19000000.0,Series A,BECO Capital,Risk and intelligence,True
 Merkle Science,2022-08-10,19000000.0,Series A,Darrow Holdings,Risk and intelligence,True
 Merkle Science,2022-08-10,19000000.0,Series A,K3 Ventures,Risk and intelligence,True
@@ -3350,7 +3350,7 @@ Gunzilla Games,2022-08-09,46000000.0,None,GSR,None,False
 Gunzilla Games,2022-08-09,46000000.0,None,KuCoin Ventures,None,False
 Gunzilla Games,2022-08-09,46000000.0,None,Spartan Investment Group,None,False
 Gunzilla Games,2022-08-09,46000000.0,None,AlphaCrypto Capital,None,False
-Gunzilla Games,2022-08-09,46000000.0,None,Blizzard ,None,False
+Gunzilla Games,2022-08-09,46000000.0,None,Blizzard,None,False
 Gunzilla Games,2022-08-09,46000000.0,None,Digital Strategies,None,False
 Gunzilla Games,2022-08-09,46000000.0,None,Morningstar Ventures,None,False
 Gunzilla Games,2022-08-09,46000000.0,None,Gamegroove Capital,None,False
@@ -3511,7 +3511,7 @@ Aptos,2022-07-26,150000000.0,Series A,Apollo,L1,False
 Aptos,2022-07-26,150000000.0,Series A,Griffin Gaming Partners,L1,False
 Aptos,2022-07-26,150000000.0,Series A,Franklin Templeton,L1,False
 Aptos,2022-07-26,150000000.0,Series A,Circle Ventures,L1,False
-Aptos,2022-07-26,150000000.0,Series A,Superscrypt ,L1,False
+Aptos,2022-07-26,150000000.0,Series A,Superscrypt,L1,False
 Aptos,2022-07-26,150000000.0,Series A,a16z crypto,L1,False
 Aptos,2022-07-26,150000000.0,Series A,Multicoin Capital,L1,False
 Unstoppable Domains,2022-07-26,65000000.0,Series A,Pantera Capital,Blockchain domains,True
@@ -3611,7 +3611,7 @@ Kaiko,2022-06-28,53000000.0,Series B,Underscore VC,None,False
 Azuro,2022-06-28,4000000.0,Strategic ,AllianceDAO,Decentralized betting protocol,False
 Azuro,2022-06-28,4000000.0,Strategic ,Arrington XRP Capital,Decentralized betting protocol,False
 Azuro,2022-06-28,4000000.0,Strategic ,Ethereal Ventures,Decentralized betting protocol,False
-Azuro,2022-06-28,4000000.0,Strategic ,Delphi Digital ,Decentralized betting protocol,False
+Azuro,2022-06-28,4000000.0,Strategic ,Delphi Digital,Decentralized betting protocol,False
 Azuro,2022-06-28,4000000.0,Strategic ,Hypershere,Decentralized betting protocol,False
 Azuro,2022-06-28,4000000.0,Strategic ,Quiet Capital,Decentralized betting protocol,False
 Azuro,2022-06-28,4000000.0,Strategic ,Formless Capital,Decentralized betting protocol,False
@@ -3789,7 +3789,7 @@ Amulet,2022-05-17,6000000.0,Seed,Republic Capital,Insurance Protocol,False
 Amulet,2022-05-17,6000000.0,Seed,Solana Ventures,Insurance Protocol,False
 Amulet,2022-05-17,6000000.0,Seed,DeFiance Capital,Insurance Protocol,False
 Amulet,2022-05-17,6000000.0,Seed,Animoca Brands,Insurance Protocol,False
-Amulet,2022-05-17,6000000.0,Seed,UOB Ventures ,Insurance Protocol,False
+Amulet,2022-05-17,6000000.0,Seed,UOB Ventures,Insurance Protocol,False
 Amulet,2022-05-17,6000000.0,Seed,Signum Capital,Insurance Protocol,False
 Amulet,2022-05-17,6000000.0,Seed,Mirana Ventures,Insurance Protocol,False
 Amulet,2022-05-17,6000000.0,Seed,NGC Ventures,Insurance Protocol,False
@@ -4199,7 +4199,7 @@ The TIE,2022-03-22,9000000.0,Series A,Republic Capital,None,False
 SkateX (Block Tackle),2022-03-22,5000000.0,Seed,Play Ventures,Solana-based video game with NFT skateboards,True
 SkateX (Block Tackle),2022-03-22,5000000.0,Seed,Cadenza Ventures,Solana-based video game with NFT skateboards,True
 SkateX (Block Tackle),2022-03-22,5000000.0,Seed,Coinbase Ventures,Solana-based video game with NFT skateboards,False
-SkateX (Block Tackle),2022-03-22,5000000.0,Seed,Solana Ventures ,Solana-based video game with NFT skateboards,False
+SkateX (Block Tackle),2022-03-22,5000000.0,Seed,Solana Ventures,Solana-based video game with NFT skateboards,False
 SkateX (Block Tackle),2022-03-22,5000000.0,Seed,Animoca Brands,Solana-based video game with NFT skateboards,False
 SkateX (Block Tackle),2022-03-22,5000000.0,Seed,Kevin Lin,Solana-based video game with NFT skateboards,False
 Yuga Labs,2022-03-22,450000000.0,Seed,a16z,None,True
@@ -4213,7 +4213,7 @@ Payrails,2022-03-18,6400000.0,Seed,a16z,None,True
 Payrails,2022-03-18,6400000.0,Seed,HV Capital,None,False
 Payrails,2022-03-18,6400000.0,Seed,Emmanuel Thomassin,None,False
 Payrails,2022-03-18,6400000.0,Seed,Jochen Engert,None,False
-Payrails,2022-03-18,6400000.0,Seed,André Schwämmlein ,None,False
+Payrails,2022-03-18,6400000.0,Seed,André Schwämmlein,None,False
 Payrails,2022-03-18,6400000.0,Seed,Daniel Krauss,None,False
 Payrails,2022-03-18,6400000.0,Seed,Dominik Richter,None,False
 Prime Protocol,2022-03-18,2750000.0,Seed,Arrington XRP Capital,None,True
@@ -4577,7 +4577,7 @@ Polymer Labs,2022-03-04,3600000.0,Seed,BlockchainAG,None,False
 Polymer Labs,2022-03-04,3600000.0,Seed,Taureon,None,False
 Polymer Labs,2022-03-04,3600000.0,Seed,Longhash Ventures,None,False
 Polymer Labs,2022-03-04,3600000.0,Seed,Signum Capital,None,False
-Polymer Labs,2022-03-04,3600000.0,Seed,UOB Ventures ,None,False
+Polymer Labs,2022-03-04,3600000.0,Seed,UOB Ventures,None,False
 Polymer Labs,2022-03-04,3600000.0,Seed,Joe Lallouz,None,False
 Polymer Labs,2022-03-04,3600000.0,Seed,Karim Atiyeh,None,False
 Polymer Labs,2022-03-04,3600000.0,Seed,Martin Mao,None,False
@@ -4693,7 +4693,7 @@ Catalog,2022-02-24,7500000.0,Seed,BlockTower Capital,Cross-chain AMM,False
 Catalog,2022-02-24,7500000.0,Seed,Cumberland DRW,Cross-chain AMM,False
 Catalog,2022-02-24,7500000.0,Seed,GBV Capital,Cross-chain AMM,False
 Catalog,2022-02-24,7500000.0,Seed,Chiron,Cross-chain AMM,False
-Catalog,2022-02-24,7500000.0,Seed,Fisher 8 ,Cross-chain AMM,False
+Catalog,2022-02-24,7500000.0,Seed,Fisher 8,Cross-chain AMM,False
 Catalog,2022-02-24,7500000.0,Seed,Bixin Ventures,Cross-chain AMM,False
 Catalog,2022-02-24,7500000.0,Seed,PetRock Capital,Cross-chain AMM,False
 Catalog,2022-02-24,7500000.0,Seed,Ledger Prime,Cross-chain AMM,False
@@ -4932,7 +4932,7 @@ Ceramic,2022-02-17,30000000.0,Series A,Oaksprout,decentralized network for compo
 Ceramic,2022-02-17,30000000.0,Series A,Daniel Heyman,decentralized network for composable data,False
 Ceramic,2022-02-17,30000000.0,Series A,sean.eth,decentralized network for composable data,False
 Ceramic,2022-02-17,30000000.0,Series A,Jeremysklaroff,decentralized network for composable data,False
-Ceramic,2022-02-17,30000000.0,Series A,aditi ,decentralized network for composable data,False
+Ceramic,2022-02-17,30000000.0,Series A,aditi,decentralized network for composable data,False
 Ceramic,2022-02-17,30000000.0,Series A,Alan Curtis,decentralized network for composable data,False
 Ceramic,2022-02-17,30000000.0,Series A,Annika Lewis,decentralized network for composable data,False
 Ceramic,2022-02-17,30000000.0,Series A,0xbilly,decentralized network for composable data,False
@@ -4968,7 +4968,7 @@ Aurigami ,2022-02-15,9500000.0,Private,D1 Ventures,Liquidity protocol ,False
 Aurigami ,2022-02-15,9500000.0,Private,Genblock Capital,Liquidity protocol ,False
 Aurigami ,2022-02-15,9500000.0,Private,Alex Shevchenko,Liquidity protocol ,False
 Aurigami ,2022-02-15,9500000.0,Private,Julian Koh,Liquidity protocol ,False
-Aurigami ,2022-02-15,9500000.0,Private,Bobby Ong ,Liquidity protocol ,False
+Aurigami ,2022-02-15,9500000.0,Private,Bobby Ong,Liquidity protocol ,False
 Aurigami ,2022-02-15,9500000.0,Private,TM Lee,Liquidity protocol ,False
 Aurigami ,2022-02-15,9500000.0,Private,Alex Svanevik,Liquidity protocol ,False
 Aurigami ,2022-02-15,9500000.0,Private,Matthew Tan,Liquidity protocol ,False
@@ -5066,7 +5066,7 @@ Alchemy,2022-02-07,200000000.0,Series C-1,Silver Lake,Developer Tools,True
 01 Exchange,2022-02-05,2200000.0,Seed,Chris McCann,Deriv Exchange on Solana,False
 01 Exchange,2022-02-05,2200000.0,Seed,Solana Ventures,Deriv Exchange on Solana,False
 01 Exchange,2022-02-05,2200000.0,Seed,LedgerPrime,Deriv Exchange on Solana,False
-01 Exchange,2022-02-05,2200000.0,Seed,Solana Ventures ,Deriv Exchange on Solana,False
+01 Exchange,2022-02-05,2200000.0,Seed,Solana Ventures,Deriv Exchange on Solana,False
 01 Exchange,2022-02-05,2200000.0,Seed,Ledger Prime,Deriv Exchange on Solana,False
 01 Exchange,2022-02-05,2200000.0,Seed,Pattern Research,Deriv Exchange on Solana,False
 01 Exchange,2022-02-05,2200000.0,Seed,Finlink Capital,Deriv Exchange on Solana,False
@@ -5152,7 +5152,7 @@ POAP,2022-01-20,10000000.0,Seed,1kx,NFT,False
 POAP,2022-01-20,10000000.0,Seed,Libertus Capital,NFT,False
 POAP,2022-01-20,10000000.0,Seed,Red Beard,NFT,False
 POAP,2022-01-20,10000000.0,Seed,6th Man Ventures,NFT,False
-POAP,2022-01-20,10000000.0,Seed,Delphi Digital ,NFT,False
+POAP,2022-01-20,10000000.0,Seed,Delphi Digital,NFT,False
 POAP,2022-01-20,10000000.0,Seed,A Capital,NFT,False
 Secret network,2022-01-20,400000000.0,Ecosystem Foundation raise,Alameda Research,L1,False
 Secret network,2022-01-20,400000000.0,Ecosystem Foundation raise,Arrington XRP Capital,L1,False
@@ -5164,7 +5164,7 @@ Azuro,2022-01-20,3500000.0,Seed,Polymorphic Capital,Sports betting,True
 Azuro,2022-01-20,3500000.0,Seed,Ethereal Ventures,Sports betting,False
 Azuro,2022-01-20,3500000.0,Seed,Arrington XRP Capital,Sports betting,False
 Azuro,2022-01-20,3500000.0,Seed,AllianceDAO,Sports betting,False
-Azuro,2022-01-20,3500000.0,Seed,Delphi Digital ,Sports betting,False
+Azuro,2022-01-20,3500000.0,Seed,Delphi Digital,Sports betting,False
 Azuro,2022-01-20,3500000.0,Seed,Metacartel Ventures,Sports betting,False
 Azuro,2022-01-20,3500000.0,Seed,Merit Circle,Sports betting,False
 Azuro,2022-01-20,3500000.0,Seed,Clever Advertising,Sports betting,False
@@ -5254,7 +5254,7 @@ Sarcophagus,2022-01-09,5470000.0,None,Blockchain Ventures,"A decentralized, auto
 Sarcophagus,2022-01-09,5470000.0,None,Lo Enterprices,"A decentralized, autonomous dead man's switch",False
 Sarcophagus,2022-01-09,5470000.0,None,Compound VC,"A decentralized, autonomous dead man's switch",False
 Sarcophagus,2022-01-09,5470000.0,None,Arweave,"A decentralized, autonomous dead man's switch",False
-Sygnum Bank,2022-01-06,90000000.0,Series B,Sun Hung Kai & Co. Limited ,Swiss crypto bank,True
+Sygnum Bank,2022-01-06,90000000.0,Series B,Sun Hung Kai & Co. Limited,Swiss crypto bank,True
 Sygnum Bank,2022-01-06,90000000.0,Series B,Meta Investments,Swiss crypto bank,False
 Sygnum Bank,2022-01-06,90000000.0,Series B,Animoca Brands,Swiss crypto bank,False
 Sygnum Bank,2022-01-06,90000000.0,Series B,WeMade,Swiss crypto bank,False
@@ -5527,7 +5527,7 @@ Hubble Protocol,2021-12-16,3600000.0,Seed,Alliance DAO,"Hubble is a decentralize
 Hubble Protocol,2021-12-16,3600000.0,Seed,CMS Holdings,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
 Hubble Protocol,2021-12-16,3600000.0,Seed,Decentral Park Capital,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
 Hubble Protocol,2021-12-16,3600000.0,Seed,DeFiance Capital,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
-Hubble Protocol,2021-12-16,3600000.0,Seed,Delphi Digital ,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
+Hubble Protocol,2021-12-16,3600000.0,Seed,Delphi Digital,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
 Hubble Protocol,2021-12-16,3600000.0,Seed,Digital Strategies,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
 Hubble Protocol,2021-12-16,3600000.0,Seed,Jump Capital,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
 Hubble Protocol,2021-12-16,3600000.0,Seed,Mechanism Capital,"Hubble is a decentralized financial protocol that allows for long-term borrowing, lending, and structured products.",False
@@ -5606,7 +5606,7 @@ Criptan,2021-12-14,3940000.0,None,Draper B1,En Criptan acercamos el dinero del f
 Criptan,2021-12-14,3940000.0,None,Juan Roig,En Criptan acercamos el dinero del futuro al di­a a di­a de las personas.,False
 Criptan,2021-12-14,3940000.0,None,Angel Corcistegui,En Criptan acercamos el dinero del futuro al di­a a di­a de las personas.,False
 Ex Populus,2021-12-14,5500000.0,None,8186 Capital,Ex Populus is a Web3 video game publishing company,False
-Ex Populus,2021-12-14,5500000.0,None,Akatsuki ,Ex Populus is a Web3 video game publishing company,False
+Ex Populus,2021-12-14,5500000.0,None,Akatsuki,Ex Populus is a Web3 video game publishing company,False
 Ex Populus,2021-12-14,5500000.0,None,Blockwall Management,Ex Populus is a Web3 video game publishing company,False
 Ex Populus,2021-12-14,5500000.0,None,CitizenX Crypto Ventures Fund,Ex Populus is a Web3 video game publishing company,False
 Ex Populus,2021-12-14,5500000.0,None,Fisher8 Capital,Ex Populus is a Web3 video game publishing company,False
@@ -5652,7 +5652,7 @@ Assembly,2021-12-10,100000000.0,None,Huobi,Assembly uses Iota's feeless foundati
 Assembly,2021-12-10,100000000.0,None,Hyperchain Capital,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
 Assembly,2021-12-10,100000000.0,None,LD Capital,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
 Assembly,2021-12-10,100000000.0,None,Signum Capital,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
-Assembly,2021-12-10,100000000.0,None,UOB Ventures ,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
+Assembly,2021-12-10,100000000.0,None,UOB Ventures,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
 Hawksight.co,2021-12-10,4200000.0,ICO,Big Brain Holdings,"Hawksight is an app that helps to make investment decisions utilising AI-driven trading and signals, DeFi-NFTs, and GameFi utilities.",False
 Hawksight.co,2021-12-10,4200000.0,ICO,Bybit,"Hawksight is an app that helps to make investment decisions utilising AI-driven trading and signals, DeFi-NFTs, and GameFi utilities.",False
 Hawksight.co,2021-12-10,4200000.0,ICO,Cherubic Ventures,"Hawksight is an app that helps to make investment decisions utilising AI-driven trading and signals, DeFi-NFTs, and GameFi utilities.",False
@@ -5719,7 +5719,7 @@ BAYZ,2021-12-09,4000000.0,Seed,Arrington XRP Capital,BAYZ is a Play-to-earn gami
 BAYZ,2021-12-09,4000000.0,Seed,Ascensive Assets,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
 BAYZ,2021-12-09,4000000.0,Seed,BITKRAFT Ventures,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
 BAYZ,2021-12-09,4000000.0,Seed,BitScale,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
-BAYZ,2021-12-09,4000000.0,Seed,Delphi Digital ,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
+BAYZ,2021-12-09,4000000.0,Seed,Delphi Digital,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
 BAYZ,2021-12-09,4000000.0,Seed,Eden Holdings,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
 BAYZ,2021-12-09,4000000.0,Seed,Fabric Ventures,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
 BAYZ,2021-12-09,4000000.0,Seed,Infinity Ventures Crypto,BAYZ is a Play-to-earn gaming guild that helps members earn money by playing video games and being part of a global gaming community.,False
@@ -6374,7 +6374,7 @@ MoonPay,2021-11-22,555000000.0,Series A,NEA,Payments Infrastructure,False
 MoonPay,2021-11-22,555000000.0,Series A,Thrive,Payments Infrastructure,False
 GameDAO,2021-11-22,2000000.0,Series A,Outlier Ventures,"Fundraising, Ownership and Coordination for Videogames, Digital Arts, eSports",True
 Polemos,2021-11-22,2000000.0,Pre-Seed,De-fi Capital,"Polemos is a GameFi platform - the first decentralized combination of its own asset lending library, educational hub, and gaming community.",False
-Polemos,2021-11-22,2000000.0,Pre-Seed,Delphi Digital ,"Polemos is a GameFi platform - the first decentralized combination of its own asset lending library, educational hub, and gaming community.",False
+Polemos,2021-11-22,2000000.0,Pre-Seed,Delphi Digital,"Polemos is a GameFi platform - the first decentralized combination of its own asset lending library, educational hub, and gaming community.",False
 Polemos,2021-11-22,2000000.0,Pre-Seed,Framework Ventures,"Polemos is a GameFi platform - the first decentralized combination of its own asset lending library, educational hub, and gaming community.",False
 Polemos,2021-11-22,2000000.0,Pre-Seed,QCP Soteria,"Polemos is a GameFi platform - the first decentralized combination of its own asset lending library, educational hub, and gaming community.",False
 Lucy Labs,2021-11-19,3000000.0,Seed,Cogent Bank,Proprietary AI Trading Platform,False
@@ -6829,7 +6829,7 @@ Afterparty,2021-11-03,3000000.0,Seed,Palm Tree Crew,"Afterparty is a technology 
 Afterparty,2021-11-03,3000000.0,Seed,Red Light Management,"Afterparty is a technology company that builds web3 platform for artists, musicians, collectors, and creators.",False
 Afterparty,2021-11-03,3000000.0,Seed,TenOneTen Ventures,"Afterparty is a technology company that builds web3 platform for artists, musicians, collectors, and creators.",False
 WeMeta,2021-11-03,1100000.0,Seed,Alliance DAO,WeMeta is the go-to platform for all things Metaverse,False
-WeMeta,2021-11-03,1100000.0,Seed,Delphi Digital ,WeMeta is the go-to platform for all things Metaverse,False
+WeMeta,2021-11-03,1100000.0,Seed,Delphi Digital,WeMeta is the go-to platform for all things Metaverse,False
 WeMeta,2021-11-03,1100000.0,Seed,DCG,WeMeta is the go-to platform for all things Metaverse,False
 WeMeta,2021-11-03,1100000.0,Seed,Galaxy Interactive,WeMeta is the go-to platform for all things Metaverse,False
 WeMeta,2021-11-03,1100000.0,Seed,Skyvision Capital,WeMeta is the go-to platform for all things Metaverse,False
@@ -6943,7 +6943,7 @@ Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,Animoca Brands,"YGG 
 Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,Arca Funds,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
 Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,Block Dream Fund,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
 Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,BRI Ventures,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
-Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,Bukalapak ,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
+Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,Bukalapak,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
 Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,Crypto.com Capital,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
 Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,Dialectic,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
 Yield Guild Games Southeast Asia,2021-11-01,15000000.0,Seed,DCG,"YGG SEA is a sub-decentralized autonomous organization (subDAO) of the play-to-earn blockchain game, YGG.",False
@@ -7029,7 +7029,7 @@ Good Games Guild,2021-10-29,1700000.0,Seed,Titan Ventures,Good Games Guild is a 
 Good Games Guild,2021-10-29,1700000.0,Seed,Twin Apex Capital,Good Games Guild is a gaming hub for play-to-earn games based on NFTs and collectible tokens.,False
 CoinRoutes,2021-10-29,15000000.0,Series B,Ayon Capital,CoinRoutes is a crypto trading software provider.,True
 Beta Finance,2021-10-29,5750000.0,None,DeFiance Capital,"Beta Finance is a a decentralized finance startup providing money market protocol for lending, borrowing, and short-selling crypto assets.",False
-Beta Finance,2021-10-29,5750000.0,None,Delphi Digital ,"Beta Finance is a a decentralized finance startup providing money market protocol for lending, borrowing, and short-selling crypto assets.",False
+Beta Finance,2021-10-29,5750000.0,None,Delphi Digital,"Beta Finance is a a decentralized finance startup providing money market protocol for lending, borrowing, and short-selling crypto assets.",False
 Beta Finance,2021-10-29,5750000.0,None,GSR Ventures,"Beta Finance is a a decentralized finance startup providing money market protocol for lending, borrowing, and short-selling crypto assets.",False
 Beta Finance,2021-10-29,5750000.0,None,Multicoin Capital,"Beta Finance is a a decentralized finance startup providing money market protocol for lending, borrowing, and short-selling crypto assets.",False
 Beta Finance,2021-10-29,5750000.0,None,ParaFi Capital,"Beta Finance is a a decentralized finance startup providing money market protocol for lending, borrowing, and short-selling crypto assets.",False
@@ -7117,7 +7117,7 @@ Sipher,2021-10-26,6800000.0,Seed,Arrington XRP Capital,Sipher is a blockchain-po
 Sipher,2021-10-26,6800000.0,Seed,BITKRAFT Ventures,Sipher is a blockchain-powered gaming studio in Vietnam.,False
 Sipher,2021-10-26,6800000.0,Seed,Coin98 Ventures,Sipher is a blockchain-powered gaming studio in Vietnam.,False
 Sipher,2021-10-26,6800000.0,Seed,DeFiance Capital,Sipher is a blockchain-powered gaming studio in Vietnam.,False
-Sipher,2021-10-26,6800000.0,Seed,Delphi Digital ,Sipher is a blockchain-powered gaming studio in Vietnam.,False
+Sipher,2021-10-26,6800000.0,Seed,Delphi Digital,Sipher is a blockchain-powered gaming studio in Vietnam.,False
 Sipher,2021-10-26,6800000.0,Seed,Dragonfly,Sipher is a blockchain-powered gaming studio in Vietnam.,False
 Sipher,2021-10-26,6800000.0,Seed,Fenbushi Capital,Sipher is a blockchain-powered gaming studio in Vietnam.,False
 Sipher,2021-10-26,6800000.0,Seed,Genesis Block Ventures,Sipher is a blockchain-powered gaming studio in Vietnam.,False
@@ -7244,7 +7244,7 @@ Candy Digital,2021-10-21,100000000.0,Series A,Will Ventures,Candy Digital is an 
 Mojito,2021-10-21,20000000.0,Seed,Ancient,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
 Mojito,2021-10-21,20000000.0,Seed,Avant Global,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
 Mojito,2021-10-21,20000000.0,Seed,Connect Ventures,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
-Mojito,2021-10-21,20000000.0,Seed,Future Perfect Venture ,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
+Mojito,2021-10-21,20000000.0,Seed,Future Perfect Venture,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
 Mojito,2021-10-21,20000000.0,Seed,Moore Strategic Ventures,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
 Mojito,2021-10-21,20000000.0,Seed,Sfermion,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
 Mojito,2021-10-21,20000000.0,Seed,CMT Digital,"Mojito is an NFT studio and tech platform company that designs, powers, and operates NFT marketplaces.",False
@@ -7543,7 +7543,7 @@ ShoeFy,2021-10-12,3650000.0,None,Gate.io,ShoeFy is a decentralised project that 
 ShoeFy,2021-10-12,3650000.0,None,Kommunitas,ShoeFy is a decentralised project that brings nonfungible and fungible tokens together on a single platform to give NFTs new utility layers.,False
 ShoeFy,2021-10-12,3650000.0,None,Moonwhale Ventures,ShoeFy is a decentralised project that brings nonfungible and fungible tokens together on a single platform to give NFTs new utility layers.,False
 ShoeFy,2021-10-12,3650000.0,None,NFT STARS,ShoeFy is a decentralised project that brings nonfungible and fungible tokens together on a single platform to give NFTs new utility layers.,False
-DeHorizon,2021-10-11,8500000.0,Seed,Akatsuki ,DeHorizon---Cutting a new decentralized horizon,False
+DeHorizon,2021-10-11,8500000.0,Seed,Akatsuki,DeHorizon---Cutting a new decentralized horizon,False
 DeHorizon,2021-10-11,8500000.0,Seed,Animoca Brands,DeHorizon---Cutting a new decentralized horizon,False
 DeHorizon,2021-10-11,8500000.0,Seed,BitScale,DeHorizon---Cutting a new decentralized horizon,False
 DeHorizon,2021-10-11,8500000.0,Seed,Block Dream Fund,DeHorizon---Cutting a new decentralized horizon,False
@@ -8050,7 +8050,7 @@ Cobo,2021-09-16,40000000.0,Series B,IMO Ventures,Cobo is Asias largest crypto cu
 LayerZero,2021-09-16,6000000.0,Series A,Multicoin Capital,Message passing between blockchains,True
 LayerZero,2021-09-16,6000000.0,Series A,Binance Labs,Message passing between blockchains,True
 LayerZero,2021-09-16,6000000.0,Series A,Sino Global Capital,Message passing between blockchains,False
-LayerZero,2021-09-16,6000000.0,Series A,Delphi Digital ,Message passing between blockchains,False
+LayerZero,2021-09-16,6000000.0,Series A,Delphi Digital,Message passing between blockchains,False
 LayerZero,2021-09-16,6000000.0,Series A,Robot Ventures,Message passing between blockchains,False
 LayerZero,2021-09-16,6000000.0,Series A,The Spartan Group,Message passing between blockchains,False
 LayerZero,2021-09-16,6000000.0,Series A,Hypershere,Message passing between blockchains,False
@@ -8479,7 +8479,7 @@ Chainflip,2021-08-19,6000000.0,Seed,CMS Holdings,Chainflip is a decentralized au
 Chainflip,2021-08-19,6000000.0,Seed,Coinbase Ventures,Chainflip is a decentralized automated market maker-based protocol.,False
 Chainflip,2021-08-19,6000000.0,Seed,CTF Capital,Chainflip is a decentralized automated market maker-based protocol.,False
 Chainflip,2021-08-19,6000000.0,Seed,D64 Ventures,Chainflip is a decentralized automated market maker-based protocol.,False
-Chainflip,2021-08-19,6000000.0,Seed,Delphi Digital ,Chainflip is a decentralized automated market maker-based protocol.,False
+Chainflip,2021-08-19,6000000.0,Seed,Delphi Digital,Chainflip is a decentralized automated market maker-based protocol.,False
 Chainflip,2021-08-19,6000000.0,Seed,Digital Asset Capital Management,Chainflip is a decentralized automated market maker-based protocol.,False
 Yield Guild Games,2021-08-19,4600000.0,None,a16z,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
 Yield Guild Games,2021-08-19,4600000.0,None,Atelier Ventures,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
@@ -9034,7 +9034,7 @@ ClayStack,2021-07-13,5200000.0,Seed,Jon Callaghan,"ClayStack, blockchain-agnosti
 ClayStack,2021-07-13,5200000.0,Seed,Josh Hannah,"ClayStack, blockchain-agnostic staking protocol that unlock the power of digital assets in the form of liquid staking derivative tokens.",False
 ClayStack,2021-07-13,5200000.0,Seed,Kain Warwick,"ClayStack, blockchain-agnostic staking protocol that unlock the power of digital assets in the form of liquid staking derivative tokens.",False
 Superfluid,2021-07-13,9000000.0,Seed,Multicoin Capital,Payment streaming protocol,True
-Superfluid,2021-07-13,9000000.0,Seed,Delphi Digital ,Payment streaming protocol,False
+Superfluid,2021-07-13,9000000.0,Seed,Delphi Digital,Payment streaming protocol,False
 Superfluid,2021-07-13,9000000.0,Seed,DeFiance Capital,Payment streaming protocol,False
 Superfluid,2021-07-13,9000000.0,Seed,Metacartel Ventures,Payment streaming protocol,False
 Superfluid,2021-07-13,9000000.0,Seed,MMC,Payment streaming protocol,False
@@ -9110,7 +9110,7 @@ Buenbit,2021-07-10,11000000.0,Series A,Protofund,Buenbit is a cryptocurrency exc
 Buenbit,2021-07-10,11000000.0,Series A,Scott Wood,Buenbit is a cryptocurrency exchange and cross-border payment platform that allows investors to generate daily profits.,False
 WonderFi,2021-07-08,5600000.0,Series A,Alameda Research,WonderFi is a technology company that is providing individuals with better access to financial services through DeFi.,True
 NFT Oasis,2021-07-08,4400000.0,Series A,CitizenX Crypto Ventures Fund,NFT Oasis is a provider of a platform for the decentralized creator economy.,False
-NFT Oasis,2021-07-08,4400000.0,Series A,Delphi Digital ,NFT Oasis is a provider of a platform for the decentralized creator economy.,False
+NFT Oasis,2021-07-08,4400000.0,Series A,Delphi Digital,NFT Oasis is a provider of a platform for the decentralized creator economy.,False
 NFT Oasis,2021-07-08,4400000.0,Series A,Flamingo DAO,NFT Oasis is a provider of a platform for the decentralized creator economy.,False
 NFT Oasis,2021-07-08,4400000.0,Series A,gmoney NFT,NFT Oasis is a provider of a platform for the decentralized creator economy.,False
 NFT Oasis,2021-07-08,4400000.0,Series A,ID Theory,NFT Oasis is a provider of a platform for the decentralized creator economy.,False
@@ -9419,7 +9419,7 @@ t3rn,2021-06-16,1350000.0,Seed,IOSG Ventures,t3rn is a smart contract hosting pl
 t3rn,2021-06-16,1350000.0,Seed,Polychain,t3rn is a smart contract hosting platform that offers an innovative solution to interoperable smart contract execution.,False
 Dtravel,2021-06-16,5000000.0,Seed,AU21 Capital,Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.,False
 Dtravel,2021-06-16,5000000.0,Seed,DHVC,Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.,False
-Dtravel,2021-06-16,5000000.0,Seed,Future Perfect Venture ,Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.,False
+Dtravel,2021-06-16,5000000.0,Seed,Future Perfect Venture,Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.,False
 Dtravel,2021-06-16,5000000.0,Seed,Genesis Block Ventures,Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.,False
 Dtravel,2021-06-16,5000000.0,Seed,Kinetic Capital,Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.,False
 Dtravel,2021-06-16,5000000.0,Seed,LD Capital,Dtravel is a decentralized platform for the home-sharing economy facilitating short and long-term stays payable.,False
@@ -11166,7 +11166,7 @@ Spl.yt Core Foundation,2021-03-26,2750000.0,None,Master Ventures,Spl.yt is an e-
 Drip Capital,2021-03-25,40000000.0,Debt Financing,East West Bank,Drip Capital offers trade financing product targeted towards SMEs in developing markets.,True
 RECUR,2021-03-25,5000000.0,Seed,CMT Digital,"RECUR designs and develops on-chain branded experiences for fans to buy, collect, and re-sell NFTs.",False
 RECUR,2021-03-25,5000000.0,Seed,Courtside Ventures,"RECUR designs and develops on-chain branded experiences for fans to buy, collect, and re-sell NFTs.",False
-RECUR,2021-03-25,5000000.0,Seed,Delphi Digital ,"RECUR designs and develops on-chain branded experiences for fans to buy, collect, and re-sell NFTs.",False
+RECUR,2021-03-25,5000000.0,Seed,Delphi Digital,"RECUR designs and develops on-chain branded experiences for fans to buy, collect, and re-sell NFTs.",False
 RECUR,2021-03-25,5000000.0,Seed,Gary Vaynerchuk,"RECUR designs and develops on-chain branded experiences for fans to buy, collect, and re-sell NFTs.",False
 RECUR,2021-03-25,5000000.0,Seed,Gemini,"RECUR designs and develops on-chain branded experiences for fans to buy, collect, and re-sell NFTs.",False
 RECUR,2021-03-25,5000000.0,Seed,Hashed,"RECUR designs and develops on-chain branded experiences for fans to buy, collect, and re-sell NFTs.",False
@@ -11365,14 +11365,14 @@ Syndicate,2021-03-17,1000000.0,Seed,Curtis Spencer,Syndicate is a decentralized 
 Syndicate,2021-03-17,1000000.0,Seed,Dan Elitzer,Syndicate is a decentralized asset management platform and social network.,False
 Syndicate,2021-03-17,1000000.0,Seed,David Nage,Syndicate is a decentralized asset management platform and social network.,False
 Syndicate,2021-03-17,1000000.0,Seed,Defi Dad,Syndicate is a decentralized asset management platform and social network.,False
-Syndicate,2021-03-17,1000000.0,Seed,Delphi Digital ,Syndicate is a decentralized asset management platform and social network.,False
+Syndicate,2021-03-17,1000000.0,Seed,Delphi Digital,Syndicate is a decentralized asset management platform and social network.,False
 Syndicate,2021-03-17,1000000.0,Seed,Delphi Ventures,Syndicate is a decentralized asset management platform and social network.,False
 Syndicate,2021-03-17,1000000.0,Seed,Don Ho,Syndicate is a decentralized asset management platform and social network.,False
 Syndicate,2021-03-17,1000000.0,Seed,Electric Capital,Syndicate is a decentralized asset management platform and social network.,False
 Syndicate,2021-03-17,1000000.0,Seed,Eric Wu,Syndicate is a decentralized asset management platform and social network.,False
 Syndicate,2021-03-17,1000000.0,Seed,Evan Feng,Syndicate is a decentralized asset management platform and social network.,False
 Anchor Protocol,2021-03-17,20000000.0,None,Alameda Research,"Anchor Protocol is a savings platform that provides crypto natives, fintech companies, and investors a stable, high interest rate finance.",False
-Anchor Protocol,2021-03-17,20000000.0,None,Delphi Digital ,"Anchor Protocol is a savings platform that provides crypto natives, fintech companies, and investors a stable, high interest rate finance.",False
+Anchor Protocol,2021-03-17,20000000.0,None,Delphi Digital,"Anchor Protocol is a savings platform that provides crypto natives, fintech companies, and investors a stable, high interest rate finance.",False
 Anchor Protocol,2021-03-17,20000000.0,None,Dragonfly Capital,"Anchor Protocol is a savings platform that provides crypto natives, fintech companies, and investors a stable, high interest rate finance.",False
 Anchor Protocol,2021-03-17,20000000.0,None,Galaxy Digital,"Anchor Protocol is a savings platform that provides crypto natives, fintech companies, and investors a stable, high interest rate finance.",False
 Anchor Protocol,2021-03-17,20000000.0,None,Hashed,"Anchor Protocol is a savings platform that provides crypto natives, fintech companies, and investors a stable, high interest rate finance.",False
@@ -11599,7 +11599,7 @@ Celestia,2021-03-03,1500000.0,Seed,yield ventures,Celestia is a blockchain distr
 Yield Guild Games,2021-03-03,1300000.0,Seed,Animoca Brands,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
 Yield Guild Games,2021-03-03,1300000.0,Seed,Ascensive Assets,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
 Yield Guild Games,2021-03-03,1300000.0,Seed,BlockTower Capital,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
-Yield Guild Games,2021-03-03,1300000.0,Seed,Delphi Digital ,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
+Yield Guild Games,2021-03-03,1300000.0,Seed,Delphi Digital,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
 Yield Guild Games,2021-03-03,1300000.0,Seed,Flamingo DAO,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
 Yield Guild Games,2021-03-03,1300000.0,Seed,gumi Cryptos Capital,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
 Yield Guild Games,2021-03-03,1300000.0,Seed,Scalar Capital,Yield Guild Games invests in non-fungible tokens (NFTs) used in virtual worlds and blockchain-based games.,False
@@ -12103,7 +12103,7 @@ Assembly,2021-01-01,18000000.0,Seed,Huobi Capital,Assembly uses Iota's feeless f
 Assembly,2021-01-01,18000000.0,Seed,Hyperchain Capital,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
 Assembly,2021-01-01,18000000.0,Seed,LD Capital,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
 Assembly,2021-01-01,18000000.0,Seed,Signum Capital,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
-Assembly,2021-01-01,18000000.0,Seed,UOB Ventures ,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
+Assembly,2021-01-01,18000000.0,Seed,UOB Ventures,Assembly uses Iota's feeless foundation layer as an immutable trust to alleviate the limits of current scaling methods.,False
 BKN301,2021-01-01,5470000.0,Debt Financing,Banca Agricola Commerciale,BKN301 is a fintech company that provides Banking as a Service in fast growing countries.,False
 BKN301,2021-01-01,5470000.0,Debt Financing,Banca di San Marino,BKN301 is a fintech company that provides Banking as a Service in fast growing countries.,False
 BKN301,2021-01-01,5470000.0,Debt Financing,Cassa di Risparmio della Repubblica di San Marino,BKN301 is a fintech company that provides Banking as a Service in fast growing countries.,False
@@ -13473,7 +13473,7 @@ InfStones,2020-02-18,10000000.0,Series A,DHVC,InfStones provides decentralized b
 InfStones,2020-02-18,10000000.0,Series A,Hashkey Capital,InfStones provides decentralized blockchain infrastructure service on one integrated platform.,False
 InfStones,2020-02-18,10000000.0,Series A,Plug and Play,InfStones provides decentralized blockchain infrastructure service on one integrated platform.,False
 InfStones,2020-02-18,10000000.0,Series A,Qiming Venture Partners,InfStones provides decentralized blockchain infrastructure service on one integrated platform.,False
-Credify,2020-02-18,1000000.0,Seed,Beenext ,Credify ushers in the age of embedded finance through self-sovereign digital identity and privacy-first cross-service offering technologies.,True
+Credify,2020-02-18,1000000.0,Seed,Beenext,Credify ushers in the age of embedded finance through self-sovereign digital identity and privacy-first cross-service offering technologies.,True
 Credify,2020-02-18,1000000.0,Seed,Deepcore,Credify ushers in the age of embedded finance through self-sovereign digital identity and privacy-first cross-service offering technologies.,True
 Bitfxt,2020-02-17,15000000.0,None,Payitup Clearinghouse Ltd,Bitfxt operates as a blockchain technology company.,True
 Amber Group,2020-02-14,28000000.0,Series A,Ben Falloon,"Amber Group is a one-stop crypto finance service provider that provides liquidity provision, trading and asset management services 24/7.",False
@@ -13520,7 +13520,7 @@ Transparent Systems,2020-02-05,14000000.0,Series A,Square,cryptographic payment 
 Transparent Systems,2020-02-05,14000000.0,Series A,DCG,cryptographic payment settlement network,False
 Transparent Systems,2020-02-05,14000000.0,Series A,IDEO CoLab Ventures,cryptographic payment settlement network,False
 Transparent Systems,2020-02-05,14000000.0,Series A,CMT Digital,cryptographic payment settlement network,False
-Transparent Systems,2020-02-05,14000000.0,Series A,Future Perfect Venture ,cryptographic payment settlement network,False
+Transparent Systems,2020-02-05,14000000.0,Series A,Future Perfect Venture,cryptographic payment settlement network,False
 Arwen,2020-02-05,3300000.0,None,CoinShares,Arwen gives protection while trade on cryptocurrency exchanges.,False
 Arwen,2020-02-05,3300000.0,None,Collaborative Fund,Arwen gives protection while trade on cryptocurrency exchanges.,False
 Arwen,2020-02-05,3300000.0,None,DG Lab Fund,Arwen gives protection while trade on cryptocurrency exchanges.,False
@@ -13561,7 +13561,7 @@ Lightnet,2020-01-11,31200000.0,Series A,Hanwha Investment Bank & Securities,Ligh
 Lightnet,2020-01-11,31200000.0,Series A,HashKey,Lightnet uses blockchain technology to provide cross-border payment capabilities for its partners.,False
 Lightnet,2020-01-11,31200000.0,Series A,Hopeshine Ventures,Lightnet uses blockchain technology to provide cross-border payment capabilities for its partners.,False
 Lightnet,2020-01-11,31200000.0,Series A,Signum Capital,Lightnet uses blockchain technology to provide cross-border payment capabilities for its partners.,False
-Lightnet,2020-01-11,31200000.0,Series A,UOB Ventures ,Lightnet uses blockchain technology to provide cross-border payment capabilities for its partners.,False
+Lightnet,2020-01-11,31200000.0,Series A,UOB Ventures,Lightnet uses blockchain technology to provide cross-border payment capabilities for its partners.,False
 Npixel,2020-01-10,51770000.0,Series A,Altos Ventures,Npixel is a computer game development company that aims to build a game ecosystem based on DAO such as blockchain-based projects and NFTs.,False
 Npixel,2020-01-10,51770000.0,Series A,Aspex Management,Npixel is a computer game development company that aims to build a game ecosystem based on DAO such as blockchain-based projects and NFTs.,False
 Npixel,2020-01-10,51770000.0,Series A,Saehan Startup Investment,Npixel is a computer game development company that aims to build a game ecosystem based on DAO such as blockchain-based projects and NFTs.,False
@@ -14427,7 +14427,7 @@ Wyre,2018-12-12,8000000.0,Series B,Nice Capital,Wyre is a crypto and payment inf
 Wyre,2018-12-12,8000000.0,Series B,OK Group,Wyre is a crypto and payment infrastructure company that develops a variety of payment APIs.,False
 Wyre,2018-12-12,8000000.0,Series B,Pantera Capital,Wyre is a crypto and payment infrastructure company that develops a variety of payment APIs.,False
 Wyre,2018-12-12,8000000.0,Series B,Seabed VC,Wyre is a crypto and payment infrastructure company that develops a variety of payment APIs.,False
-Braintrust,2018-12-11,5000000.0,Seed,Future Perfect Venture ,Braintrust is a blockchain-powered freelancer marketplace that connects skilled tech experts with clients.,False
+Braintrust,2018-12-11,5000000.0,Seed,Future Perfect Venture,Braintrust is a blockchain-powered freelancer marketplace that connects skilled tech experts with clients.,False
 Braintrust,2018-12-11,5000000.0,Seed,Galaxy Interactive,Braintrust is a blockchain-powered freelancer marketplace that connects skilled tech experts with clients.,False
 Braintrust,2018-12-11,5000000.0,Seed,True Ventures,Braintrust is a blockchain-powered freelancer marketplace that connects skilled tech experts with clients.,False
 Bitget,2018-12-10,10000000.0,Corporate Round,8 Decimal Capital,CEX,False
@@ -14702,7 +14702,7 @@ ACINQ,2018-10-04,1700000.0,Seed,Alistair Milne,ACINQ is one of the companies wor
 ACINQ,2018-10-04,1700000.0,Seed,Bertrand Diard,ACINQ is one of the companies working on Bitcoin scalability.,False
 ACINQ,2018-10-04,1700000.0,Seed,Serena,ACINQ is one of the companies working on Bitcoin scalability.,False
 ACINQ,2018-10-04,1700000.0,Seed,Yves Weisselberger,ACINQ is one of the companies working on Bitcoin scalability.,False
-Sentient.io,2018-09-28,1240000.0,Series A,Beenext ,Sentient.io is an AI and Data platform helping to deploy AI solutions and integrate AI into existing businesses.,True
+Sentient.io,2018-09-28,1240000.0,Series A,Beenext,Sentient.io is an AI and Data platform helping to deploy AI solutions and integrate AI into existing businesses.,True
 SEBA Bank,2018-09-27,104000000.0,None,Black River Asset Management,"SEBA Bank is a cryptocurrency company that provides a seamless, secure, and easy-to-use bridge between digital and traditional assets.",True
 ByzGen,2018-09-26,1760000.0,None,Regulatory Financial Services,ByzGen is the first blockchain company.,True
 Veem,2018-09-26,25000000.0,None,Extol Capital,Veem is a payment service provider that helps simplify the way businesses send and receive funds.,False
@@ -15021,7 +15021,7 @@ Nervos Network,2018-07-18,28000000.0,Series A,Multicoin Capital,"Nervos Network 
 Nervos Network,2018-07-18,28000000.0,Series A,VY Capital,"Nervos Network is the Multi-asset, Store of Value Blockchain.",False
 Nervos Network,2018-07-18,28000000.0,Series A,Struck Crypto,"Nervos Network is the Multi-asset, Store of Value Blockchain.",False
 Nervos Network,2018-07-18,28000000.0,Series A,Wanxiang Blockchain,"Nervos Network is the Multi-asset, Store of Value Blockchain.",False
-BLOCKCLOUD,2018-07-16,14000000.0,None,Consensus Lab ,BLOCKCLOUD is a  Blockchain-based Advanced TCP/IP ArchitectureProviding Constant Connectivity for Dynamic Networks.,True
+BLOCKCLOUD,2018-07-16,14000000.0,None,Consensus Lab,BLOCKCLOUD is a  Blockchain-based Advanced TCP/IP ArchitectureProviding Constant Connectivity for Dynamic Networks.,True
 BLOCKCLOUD,2018-07-16,14000000.0,None,Kosmos Ventures,BLOCKCLOUD is a  Blockchain-based Advanced TCP/IP ArchitectureProviding Constant Connectivity for Dynamic Networks.,True
 BLOCKCLOUD,2018-07-16,14000000.0,None,Obsidian Capital,BLOCKCLOUD is a  Blockchain-based Advanced TCP/IP ArchitectureProviding Constant Connectivity for Dynamic Networks.,True
 Nineseals,2018-07-16,1500000.0,Angel Round,ZhenFund,Nineseals is a Blockchain based company.,True
@@ -15115,7 +15115,7 @@ Celo,2018-06-25,6500000.0,None,Avichal Garg,Celo is an open platform that makes 
 Celo,2018-06-25,6500000.0,None,Coinbase Ventures,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
 Celo,2018-06-25,6500000.0,None,Curious Endeavors,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
 Celo,2018-06-25,6500000.0,None,Elad Gil,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
-Celo,2018-06-25,6500000.0,None,Future Perfect Venture ,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
+Celo,2018-06-25,6500000.0,None,Future Perfect Venture,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
 Celo,2018-06-25,6500000.0,None,General Catalyst,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
 Celo,2018-06-25,6500000.0,None,Jack Dorsey,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
 Celo,2018-06-25,6500000.0,None,Kilowatt Capital LLC,Celo is an open platform that makes financial tools accessible to anyone with a mobile phone.,False
@@ -15510,7 +15510,7 @@ Harbor,2018-04-17,28000000.0,Corporate Round,Abstract Ventures,Harbor is helping
 Harbor,2018-04-17,28000000.0,Corporate Round,a16z,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
 Harbor,2018-04-17,28000000.0,Corporate Round,Craft Ventures,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
 Harbor,2018-04-17,28000000.0,Corporate Round,Founders Fund,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
-Harbor,2018-04-17,28000000.0,Corporate Round,Future Perfect Venture ,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
+Harbor,2018-04-17,28000000.0,Corporate Round,Future Perfect Venture,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
 Harbor,2018-04-17,28000000.0,Corporate Round,Navitas Capital,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
 Harbor,2018-04-17,28000000.0,Corporate Round,Pantera Capital,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
 Harbor,2018-04-17,28000000.0,Corporate Round,Signia Venture Partners,Harbor is helping to power the next big wave in capital markets and tokenized securities - by automating regulatory compliance.,False
@@ -15662,7 +15662,7 @@ Vivid Labs,2018-03-16,50000000.0,ICO,Science Blockchain,Video Infrastructure for
 Strix Leviathan,2018-03-15,1630000.0,Seed,9Mile Labs,"Strix Leviathan builds a crypto-trading platform for large entities like hedge funds, banks and traditional enterprise companies.",False
 Strix Leviathan,2018-03-15,1630000.0,Seed,Curious Capital,"Strix Leviathan builds a crypto-trading platform for large entities like hedge funds, banks and traditional enterprise companies.",False
 Strix Leviathan,2018-03-15,1630000.0,Seed,Founders' Co-op,"Strix Leviathan builds a crypto-trading platform for large entities like hedge funds, banks and traditional enterprise companies.",False
-Strix Leviathan,2018-03-15,1630000.0,Seed,Future Perfect Venture ,"Strix Leviathan builds a crypto-trading platform for large entities like hedge funds, banks and traditional enterprise companies.",False
+Strix Leviathan,2018-03-15,1630000.0,Seed,Future Perfect Venture,"Strix Leviathan builds a crypto-trading platform for large entities like hedge funds, banks and traditional enterprise companies.",False
 Strix Leviathan,2018-03-15,1630000.0,Seed,Liquid 2 Ventures,"Strix Leviathan builds a crypto-trading platform for large entities like hedge funds, banks and traditional enterprise companies.",False
 LOCALLY,2018-03-13,1000000.0,None,NEM,"Blockchain, Big Data, Location Intelligence, Location Data, and consumer engagement",True
 OB1,2018-03-13,5000000.0,Series A,a16z,OB1 is a developer of a peer-to-peer trading platform used to offer a cryptocurrency marketplace.,False
@@ -15806,7 +15806,7 @@ CipherTrace,2018-02-13,15000000.0,None,WestWave Capital,CipherTrace is a cryptoc
 BlockFi,2018-02-13,1550000.0,Seed,Alumni Ventures,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
 BlockFi,2018-02-13,1550000.0,Seed,Cadenza Ventures,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
 BlockFi,2018-02-13,1550000.0,Seed,ConsenSys Ventures,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
-BlockFi,2018-02-13,1550000.0,Seed, Schuyler Ventures,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
+BlockFi,2018-02-13,1550000.0,Seed,Schuyler Ventures,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
 BlockFi,2018-02-13,1550000.0,Seed,Kenetic,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
 BlockFi,2018-02-13,1550000.0,Seed,Nelson Chu,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
 BlockFi,2018-02-13,1550000.0,Seed,PJC,BlockFi develops a blockchain-driven wealth management platform for crypto investors.,False
@@ -16393,7 +16393,7 @@ CAMPFIRE,2017-06-28,5500000.0,Series A,SMBC Venture Capital,"CAMPFIRE engages in
 Fangqiu,2017-06-27,3041000.0,Angel Round,Hyper Fund,Fangqiu is a blockchain company.,True
 Fangqiu,2017-06-27,3041000.0,Angel Round,UniValues Associates,Fangqiu is a blockchain company.,True
 Blockchain.com,2017-06-22,40000000.0,Series B,DCG,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
-Blockchain.com,2017-06-22,40000000.0,Series B,Future Perfect Venture ,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
+Blockchain.com,2017-06-22,40000000.0,Series B,Future Perfect Venture,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
 Blockchain.com,2017-06-22,40000000.0,Series B,GV,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
 Blockchain.com,2017-06-22,40000000.0,Series B,Lakestar,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
 Blockchain.com,2017-06-22,40000000.0,Series B,Lightspeed Venture Partners,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
@@ -16746,7 +16746,7 @@ Unocoin,2016-09-30,1500000.0,Seed,BnkToTheFuture,"Unocoin is an Indian bitcoin p
 Unocoin,2016-09-30,1500000.0,Seed,Boost VC,"Unocoin is an Indian bitcoin processor that enables users to buy, sell, store, use, and accept bitcoins.",False
 Unocoin,2016-09-30,1500000.0,Seed,DCG,"Unocoin is an Indian bitcoin processor that enables users to buy, sell, store, use, and accept bitcoins.",False
 Unocoin,2016-09-30,1500000.0,Seed,FundersClub,"Unocoin is an Indian bitcoin processor that enables users to buy, sell, store, use, and accept bitcoins.",False
-Unocoin,2016-09-30,1500000.0,Seed,Future Perfect Venture ,"Unocoin is an Indian bitcoin processor that enables users to buy, sell, store, use, and accept bitcoins.",False
+Unocoin,2016-09-30,1500000.0,Seed,Future Perfect Venture,"Unocoin is an Indian bitcoin processor that enables users to buy, sell, store, use, and accept bitcoins.",False
 Unocoin,2016-09-30,1500000.0,Seed,Mumbai Angels,"Unocoin is an Indian bitcoin processor that enables users to buy, sell, store, use, and accept bitcoins.",False
 Bitso,2016-09-28,2500000.0,Series A,Bitcoin Capital,Bitso is a cryptocurrency exchange platform that allows users to buy and sell bitcoin and other cryptocurrencies.,False
 Bitso,2016-09-28,2500000.0,Series A,Blockchain Tech LTD,Bitso is a cryptocurrency exchange platform that allows users to buy and sell bitcoin and other cryptocurrencies.,False
@@ -16975,7 +16975,7 @@ Blockstream,2016-02-03,57000000.0,Series A,Blockchain Capital,Blockstream provid
 Blockstream,2016-02-03,57000000.0,Series A,DCVC,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2016-02-03,57000000.0,Series A,Daniel Curran,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2016-02-03,57000000.0,Series A,DG Ventures,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
-Blockstream,2016-02-03,57000000.0,Series A,Future Perfect Venture ,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
+Blockstream,2016-02-03,57000000.0,Series A,Future Perfect Venture,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2016-02-03,57000000.0,Series A,Horizons Ventures,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2016-02-03,57000000.0,Series A,Khosla Ventures,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2016-02-03,57000000.0,Series A,Mosaic,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
@@ -17011,7 +17011,7 @@ Civic,2016-01-27,2750000.0,Seed,Blockchain Capital,Civic is a blockchain based e
 Civic,2016-01-27,2750000.0,Seed,Chris Hitchen,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
 Civic,2016-01-27,2750000.0,Seed,DCG,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
 Civic,2016-01-27,2750000.0,Seed,Founder Collective,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
-Civic,2016-01-27,2750000.0,Seed,Future Perfect Venture ,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
+Civic,2016-01-27,2750000.0,Seed,Future Perfect Venture,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
 Civic,2016-01-27,2750000.0,Seed,Guy Oseary,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
 Civic,2016-01-27,2750000.0,Seed,Pantera Capital,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
 Civic,2016-01-27,2750000.0,Seed,Propel VC,Civic is a blockchain based ecosystem gives businesses and individuals the tools to control and protect identities.,False
@@ -17162,7 +17162,7 @@ Luno,2015-07-01,4000000.0,Series A,PayU,Luno is a global cryptocurrency company.
 BigchainDB,2015-06-30,2000000.0,Seed,DCG,"BigchainDB is a blockchain database offering decentralization, immutability and native assets.",True
 BigchainDB,2015-06-30,2000000.0,Seed,Earlybird Venture Capital,"BigchainDB is a blockchain database offering decentralization, immutability and native assets.",True
 Case,2015-06-18,1250000.0,Seed,Flight Ventures,Case is a multi-signature hardware wallet that is GSM-enabled and biometrically protected for securing digital assets,False
-Case,2015-06-18,1250000.0,Seed,Future Perfect Venture ,Case is a multi-signature hardware wallet that is GSM-enabled and biometrically protected for securing digital assets,False
+Case,2015-06-18,1250000.0,Seed,Future Perfect Venture,Case is a multi-signature hardware wallet that is GSM-enabled and biometrically protected for securing digital assets,False
 Case,2015-06-18,1250000.0,Seed,RRE Ventures,Case is a multi-signature hardware wallet that is GSM-enabled and biometrically protected for securing digital assets,False
 Case,2015-06-18,1250000.0,Seed,Rochester Institute of Technology,Case is a multi-signature hardware wallet that is GSM-enabled and biometrically protected for securing digital assets,False
 Case,2015-06-18,1250000.0,Seed,Third Kind Venture Capital,Case is a multi-signature hardware wallet that is GSM-enabled and biometrically protected for securing digital assets,False
@@ -17256,7 +17256,7 @@ ShapeShift,2015-03-10,790000.0,Seed,DCG,"ShapeShift is a crypto platform, enabli
 ShapeShift,2015-03-10,790000.0,Seed,Roger Ver,"ShapeShift is a crypto platform, enabling customers to buy, sell, trade, track, send, receive, and interact with their digital assets.",True
 Abra,2015-03-05,2000000.0,Series A,DCG,"Abra is a digital wallet that makes it easy to access, manage, and earn interest on cryptocurrencies.",False
 Abra,2015-03-05,2000000.0,Series A,First Round Capital,"Abra is a digital wallet that makes it easy to access, manage, and earn interest on cryptocurrencies.",False
-Abra,2015-03-05,2000000.0,Series A,Future Perfect Venture ,"Abra is a digital wallet that makes it easy to access, manage, and earn interest on cryptocurrencies.",False
+Abra,2015-03-05,2000000.0,Series A,Future Perfect Venture,"Abra is a digital wallet that makes it easy to access, manage, and earn interest on cryptocurrencies.",False
 Abra,2015-03-05,2000000.0,Series A,LAUNCH,"Abra is a digital wallet that makes it easy to access, manage, and earn interest on cryptocurrencies.",False
 Abra,2015-03-05,2000000.0,Series A,Recursive Capital,"Abra is a digital wallet that makes it easy to access, manage, and earn interest on cryptocurrencies.",False
 Abra,2015-03-05,2000000.0,Series A,RRE Ventures,"Abra is a digital wallet that makes it easy to access, manage, and earn interest on cryptocurrencies.",False
@@ -17287,7 +17287,7 @@ BlockCypher,2015-01-14,3100000.0,Seed,500 Startups,BlockCypher is a cloud-optimi
 BlockCypher,2015-01-14,3100000.0,Seed,Blockchain Capital,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
 BlockCypher,2015-01-14,3100000.0,Seed,Boost VC,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
 BlockCypher,2015-01-14,3100000.0,Seed,Foundation Capital,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
-BlockCypher,2015-01-14,3100000.0,Seed,Future Perfect Venture ,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
+BlockCypher,2015-01-14,3100000.0,Seed,Future Perfect Venture,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
 BlockCypher,2015-01-14,3100000.0,Seed,Granite Ventures,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
 BlockCypher,2015-01-14,3100000.0,Seed,New Enterprise Associates,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
 BlockCypher,2015-01-14,3100000.0,Seed,Pegasus Tech Ventures,BlockCypher is a cloud-optimized platform powering blockchain applications reliably and at-scale.,False
@@ -17366,7 +17366,7 @@ Blockstream,2014-11-17,21000000.0,Seed,Blockchain Capital,Blockstream provides B
 Blockstream,2014-11-17,21000000.0,Seed,Danny Hillis,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2014-11-17,21000000.0,Seed,Embrase,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2014-11-17,21000000.0,Seed,Flight Ventures,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
-Blockstream,2014-11-17,21000000.0,Seed,Future Perfect Venture ,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
+Blockstream,2014-11-17,21000000.0,Seed,Future Perfect Venture,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2014-11-17,21000000.0,Seed,Heron Rock Fund,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2014-11-17,21000000.0,Seed,Innovation Endeavors,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
 Blockstream,2014-11-17,21000000.0,Seed,Khosla Ventures,Blockstream provides Bitcoin and blockchain technology solution for financial markets.,False
@@ -17432,7 +17432,7 @@ Coinplug,2014-10-08,2500000.0,Series A,Draper Associates,Coinplug is a Korean bl
 Coinplug,2014-10-08,2500000.0,Series A,DSC Investment,Coinplug is a Korean blockchain developing company founded in 2013 with over 300 blockchain patents in multiple fields.,False
 Coinplug,2014-10-08,2500000.0,Series A,Mirae Asset Venture Investment,Coinplug is a Korean blockchain developing company founded in 2013 with over 300 blockchain patents in multiple fields.,False
 Blockchain.com,2014-10-07,30000000.0,Series A,Amit Jhawar,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
-Blockchain.com,2014-10-07,30000000.0,Series A,Future Perfect Venture ,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
+Blockchain.com,2014-10-07,30000000.0,Series A,Future Perfect Venture,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
 Blockchain.com,2014-10-07,30000000.0,Series A,Lightspeed Venture Partners,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
 Blockchain.com,2014-10-07,30000000.0,Series A,Mosaic Ventures,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
 Blockchain.com,2014-10-07,30000000.0,Series A,Nat Brown,"Blockchain.com is a platform that offers ways to buy, hold, and use cryptocurrency.",False
@@ -17479,7 +17479,7 @@ Korbit,2014-08-25,3000000.0,Series A,Pietro Dova,"Korbit provides online bitcoin
 Korbit,2014-08-25,3000000.0,Series A,Softbank Ventures Asia,"Korbit provides online bitcoin exchange, wallet, and merchant processor services.",False
 Korbit,2014-08-25,3000000.0,Series A,Strong Ventures,"Korbit provides online bitcoin exchange, wallet, and merchant processor services.",False
 Chain,2014-08-20,9500000.0,Series B,500 Startups,"Chain built cryptographic ledger systems to make financial services smarter, more secure, and more connected.",False
-Chain,2014-08-20,9500000.0,Series B,AlleyCorp ,"Chain built cryptographic ledger systems to make financial services smarter, more secure, and more connected.",False
+Chain,2014-08-20,9500000.0,Series B,AlleyCorp,"Chain built cryptographic ledger systems to make financial services smarter, more secure, and more connected.",False
 Chain,2014-08-20,9500000.0,Series B,Blockchain Capital,"Chain built cryptographic ledger systems to make financial services smarter, more secure, and more connected.",False
 Chain,2014-08-20,9500000.0,Series B,DCG,"Chain built cryptographic ledger systems to make financial services smarter, more secure, and more connected.",False
 Chain,2014-08-20,9500000.0,Series B,Homebrew,"Chain built cryptographic ledger systems to make financial services smarter, more secure, and more connected.",False

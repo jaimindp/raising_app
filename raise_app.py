@@ -125,7 +125,8 @@ with open('possible_matches.json','r') as f:
 raises_clean.Date = pd.to_datetime(raises_clean.Date)
 raises_description = raises_clean[raises_clean.Description != 'None']
 
-investor_names = raises_clean.Investor.unique()
+investor_names = raises_clean.Investor.unique().tolist()
+investor_names.sort()
 st.subheader('Data from %d Raises' % len(raises_clean.groupby(['Company', 'Date','Amount Raised']).size()))
 
 # Define the tab names
@@ -136,8 +137,8 @@ selected_tab = st.selectbox("Investor or sector", tabs)
 
 # Display content based on the selected tab
 if selected_tab == tabs[0]:
-    
-    investor = st.selectbox('Search for a specific investor', sorted(investor_names))
+
+    investor = st.selectbox('Search for a specific investor', investor_names, index=investor_names.index('Paradigm'))
 
     fig = investor_data_plotly(investor)
     st.plotly_chart(fig)
