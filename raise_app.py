@@ -6,12 +6,10 @@ from datetime import datetime, timedelta
 import json
 import matplotlib.pyplot as plt
 import numpy as np
-from tqdm.auto import tqdm
 from collections import Counter
 from wordcloud import WordCloud, STOPWORDS, ImageColorGenerator
 import plotly.graph_objs as go
 import plotly.subplots as sp
-from adjustText import adjust_text
 import traceback
 
 
@@ -84,7 +82,6 @@ def plot_vc_cloud(vc, min_companies=3):
         
         if len(cloud_df) > min_companies:
 
-            print('%s invested in: %d companies' % (vc, len(cloud_df)))
             comment_words = ''
 
             mystopwords = ['crypto', 'blockchain', 'protocol','none', 'network', 'company']
