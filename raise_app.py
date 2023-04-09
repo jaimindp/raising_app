@@ -130,7 +130,7 @@ investor_names.sort()
 st.subheader('Data from %d Raises' % len(raises_clean.groupby(['Company', 'Date','Amount Raised']).size()))
 
 # Define the tab names
-tabs = ["Specific investor lookup", "Find investors by sector"]
+tabs = ["Investor search", "By sector"]
 
 # Create a selectbox for tab selection
 selected_tab = st.selectbox("Investor or sector", tabs)
@@ -138,7 +138,7 @@ selected_tab = st.selectbox("Investor or sector", tabs)
 # Display content based on the selected tab
 if selected_tab == tabs[0]:
 
-    investor = st.selectbox('Search for a specific investor', investor_names, index=investor_names.index('Paradigm'))
+    investor = st.selectbox('Search for an investor', investor_names, index=investor_names.index('Paradigm'))
 
     fig = investor_data_plotly(investor)
     st.plotly_chart(fig)
@@ -179,19 +179,20 @@ elif selected_tab == tabs[1]:
 
     keyword_df = pd.DataFrame(keyword_lookup(keyword,threshold), columns=['Name', '%% "%s" investments' % keyword, '# "%s" investments' % keyword]).sort_values(['# "%s" investments' % keyword], ascending=False).reset_index(drop=True)
 
-    st.dataframe(keyword_df, height=800, use_container_width=True)
+    st.dataframe(keyword_df, height=500, use_container_width=True)
 
+    investor = st.selectbox('Search for an investor', investor_names)
 
-    # form = st.form(key="Form1")
-    # c1, c2, c3, c4 = st.columns(4)
+    fig = investor_data_plotly(investor)
+    st.plotly_chart(fig)
+    
+    wordcloud = plot_vc_cloud(investor)
+    
+    if wordcloud:
+        st.pyplot(wordcloud[1])
 
-    # with c1:
-    #     initialInvestment = form.text_input("Starting capital",value=500)
-    # with c2:
-    #     monthlyContribution = form.text_input("Monthly contribution (Optional)",value=100)
-    # with c3:
-    #     annualRate = form.text_input("Annual increase rate in percentage",value="15")
-    # with c4:
-    #     investingTimeYears = form.text_input("Years of investing:",value=10)
+    st.subheader('Latest investments')
+    specfic_investor_df = raises_clean[['Company','Investor','Date','Amount Raised']][raises_clean.Investor==investor].sort_values(by='Date', ascending=False).reset_index(drop=True).head(20)
 
-    # submitButton = form.form_submit_button(label = 'Calculate')
+    st.table(specfic_investor_df)
+
